@@ -1,0 +1,2742 @@
+[
+ {
+   "Indicatif": 20,
+   "Pays": "Égypte"
+ },
+ {
+   "Indicatif": 211,
+   "Pays": "Soudan du Sud"
+ },
+ {
+   "Indicatif": 212,
+   "Pays": "Maroc"
+ },
+ {
+   "Indicatif": 213,
+   "Pays": "Algérie"
+ },
+ {
+   "Indicatif": 216,
+   "Pays": "Tunisie"
+ },
+ {
+   "Indicatif": 218,
+   "Pays": "Libye"
+ },
+ {
+   "Indicatif": 220,
+   "Pays": "Gambie"
+ },
+ {
+   "Indicatif": 221,
+   "Pays": "Sénégal"
+ },
+ {
+   "Indicatif": 222,
+   "Pays": "Mauritanie"
+ },
+ {
+   "Indicatif": 223,
+   "Pays": "Mali"
+ },
+ {
+   "Indicatif": 224,
+   "Pays": "Guinée"
+ },
+ {
+   "Indicatif": 225,
+   "Pays": "Côte d'Ivoire"
+ },
+ {
+   "Indicatif": 226,
+   "Pays": "Burkina Faso"
+ },
+ {
+   "Indicatif": 227,
+   "Pays": "Niger"
+ },
+ {
+   "Indicatif": 228,
+   "Pays": "Togo"
+ },
+ {
+   "Indicatif": 229,
+   "Pays": "Bénin"
+ },
+ {
+   "Indicatif": 230,
+   "Pays": "Maurice"
+ },
+ {
+   "Indicatif": 231,
+   "Pays": "Libéria"
+ },
+ {
+   "Indicatif": 232,
+   "Pays": "Sierra Leone"
+ },
+ {
+   "Indicatif": 233,
+   "Pays": "Ghana"
+ },
+ {
+   "Indicatif": 234,
+   "Pays": "Nigéria"
+ },
+ {
+   "Indicatif": 235,
+   "Pays": "Tchad"
+ },
+ {
+   "Indicatif": 236,
+   "Pays": "République centrafricaine"
+ },
+ {
+   "Indicatif": 237,
+   "Pays": "Cameroun"
+ },
+ {
+   "Indicatif": 238,
+   "Pays": "Cap Vert"
+ },
+ {
+   "Indicatif": 239,
+   "Pays": "Sao Tomé et Principe"
+ },
+ {
+   "Indicatif": 240,
+   "Pays": "Guinée équatoriale"
+ },
+ {
+   "Indicatif": 241,
+   "Pays": "Gabon"
+ },
+ {
+   "Indicatif": 242,
+   "Pays": "Congo"
+ },
+ {
+   "Indicatif": 243,
+   "Pays": "République Démocratique du Congo"
+ },
+ {
+   "Indicatif": 244,
+   "Pays": "Angola"
+ },
+ {
+   "Indicatif": 245,
+   "Pays": "Guinée-Bissau"
+ },
+ {
+   "Indicatif": 246,
+   "Pays": "Diego Garcia"
+ },
+ {
+   "Indicatif": 247,
+   "Pays": "Sainte-Hélène, Ascension et Tristan da Cunha"
+ },
+ {
+   "Indicatif": 248,
+   "Pays": "Seychelles"
+ },
+ {
+   "Indicatif": 249,
+   "Pays": "Soudan"
+ },
+ {
+   "Indicatif": 250,
+   "Pays": "Rwanda"
+ },
+ {
+   "Indicatif": 251,
+   "Pays": "Éthiopie"
+ },
+ {
+   "Indicatif": 252,
+   "Pays": "Somalie"
+ },
+ {
+   "Indicatif": 253,
+   "Pays": "Djibouti"
+ },
+ {
+   "Indicatif": 254,
+   "Pays": "Kenya"
+ },
+ {
+   "Indicatif": 255,
+   "Pays": "Tanzanie"
+ },
+ {
+   "Indicatif": 256,
+   "Pays": "Ouganda"
+ },
+ {
+   "Indicatif": 257,
+   "Pays": "Burundi"
+ },
+ {
+   "Indicatif": 258,
+   "Pays": "Mozambique"
+ },
+ {
+   "Indicatif": 260,
+   "Pays": "Zambie"
+ },
+ {
+   "Indicatif": 261,
+   "Pays": "Madagascar"
+ },
+ {
+   "Indicatif": 262,
+   "Pays": "Départements et territoires français de l'océan Indien"
+ },
+ {
+   "Indicatif": 263,
+   "Pays": "Zimbabwe"
+ },
+ {
+   "Indicatif": 264,
+   "Pays": "Namibie"
+ },
+ {
+   "Indicatif": 265,
+   "Pays": "Malawi"
+ },
+ {
+   "Indicatif": 266,
+   "Pays": "Lesotho"
+ },
+ {
+   "Indicatif": 267,
+   "Pays": "Botswana"
+ },
+ {
+   "Indicatif": 268,
+   "Pays": "Eswatini"
+ },
+ {
+   "Indicatif": 269,
+   "Pays": "Comores"
+ },
+ {
+   "Indicatif": 27,
+   "Pays": "Afrique du Sud"
+ },
+ {
+   "Indicatif": 290,
+   "Pays": "Sainte-Hélène, Ascension et Tristan da Cunha"
+ },
+ {
+   "Indicatif": 291,
+   "Pays": "Érythrée"
+ },
+ {
+   "Indicatif": 297,
+   "Pays": "Aruba"
+ },
+ {
+   "Indicatif": 298,
+   "Pays": "Îles Féroé"
+ },
+ {
+   "Indicatif": 299,
+   "Pays": "Groenland"
+ },
+ {
+   "Indicatif": 30,
+   "Pays": "Grèce"
+ },
+ {
+   "Indicatif": 31,
+   "Pays": "Pays-Bas"
+ },
+ {
+   "Indicatif": 32,
+   "Pays": "Belgique"
+ },
+ {
+   "Indicatif": 33,
+   "Pays": "France"
+ },
+ {
+   "Indicatif": 34,
+   "Pays": "Espagne"
+ },
+ {
+   "Indicatif": 350,
+   "Pays": "Gibraltar"
+ },
+ {
+   "Indicatif": 351,
+   "Pays": "Portugal"
+ },
+ {
+   "Indicatif": 352,
+   "Pays": "Luxembourg"
+ },
+ {
+   "Indicatif": 353,
+   "Pays": "Irlande"
+ },
+ {
+   "Indicatif": 354,
+   "Pays": "Islande"
+ },
+ {
+   "Indicatif": 355,
+   "Pays": "Albanie"
+ },
+ {
+   "Indicatif": 356,
+   "Pays": "Malte"
+ },
+ {
+   "Indicatif": 357,
+   "Pays": "Chypre"
+ },
+ {
+   "Indicatif": 358,
+   "Pays": "Finlande"
+ },
+ {
+   "Indicatif": 35818,
+   "Pays": "Åland"
+ },
+ {
+   "Indicatif": 359,
+   "Pays": "Bulgarie"
+ },
+ {
+   "Indicatif": 36,
+   "Pays": "Hongrie"
+ },
+ {
+   "Indicatif": 370,
+   "Pays": "Lituanie"
+ },
+ {
+   "Indicatif": 371,
+   "Pays": "Lettonie"
+ },
+ {
+   "Indicatif": 372,
+   "Pays": "Estonie"
+ },
+ {
+   "Indicatif": 373,
+   "Pays": "Moldova"
+ },
+ {
+   "Indicatif": 374,
+   "Pays": "Arménie"
+ },
+ {
+   "Indicatif": 375,
+   "Pays": "Bélarus"
+ },
+ {
+   "Indicatif": 376,
+   "Pays": "Andorre"
+ },
+ {
+   "Indicatif": 377,
+   "Pays": "Monaco"
+ },
+ {
+   "Indicatif": 378,
+   "Pays": "Saint-Marin"
+ },
+ {
+   "Indicatif": 379,
+   "Pays": "État de la Cité du Vatican"
+ },
+ {
+   "Indicatif": 380,
+   "Pays": "Ukraine"
+ },
+ {
+   "Indicatif": 381,
+   "Pays": "Serbie"
+ },
+ {
+   "Indicatif": 382,
+   "Pays": "Monténégro"
+ },
+ {
+   "Indicatif": 383,
+   "Pays": "Kosovo"
+ },
+ {
+   "Indicatif": 385,
+   "Pays": "Croatie"
+ },
+ {
+   "Indicatif": 386,
+   "Pays": "Slovénie"
+ },
+ {
+   "Indicatif": 387,
+   "Pays": "Bosnie Herzégovine"
+ },
+ {
+   "Indicatif": 388,
+   "Pays": "Europe"
+ },
+ {
+   "Indicatif": 389,
+   "Pays": "Macédoine du Nord"
+ },
+ {
+   "Indicatif": 39,
+   "Pays": "Italie"
+ },
+ {
+   "Indicatif": 390549,
+   "Pays": "Saint-Marin"
+ },
+ {
+   "Indicatif": 3906698,
+   "Pays": "État de la Cité du Vatican"
+ },
+ {
+   "Indicatif": 40,
+   "Pays": "Roumanie"
+ },
+ {
+   "Indicatif": 41,
+   "Pays": "Suisse"
+ },
+ {
+   "Indicatif": 420,
+   "Pays": "Tchéquie"
+ },
+ {
+   "Indicatif": 421,
+   "Pays": "Slovaquie"
+ },
+ {
+   "Indicatif": 423,
+   "Pays": "Liechtenstein"
+ },
+ {
+   "Indicatif": 43,
+   "Pays": "Autriche"
+ },
+ {
+   "Indicatif": 44,
+   "Pays": "Royaume-Uni de Grande-Bretagne et d'Irlande du Nord"
+ },
+ {
+   "Indicatif": 441534,
+   "Pays": "Jersey"
+ },
+ {
+   "Indicatif": 441481,
+   "Pays": "Guernesey"
+ },
+ {
+   "Indicatif": 441624,
+   "Pays": "île de Man"
+ },
+ {
+   "Indicatif": 447781,
+   "Pays": "Guernesey"
+ },
+ {
+   "Indicatif": 447839,
+   "Pays": "Guernesey"
+ },
+ {
+   "Indicatif": 447911,
+   "Pays": "Guernesey"
+ },
+ {
+   "Indicatif": 447509,
+   "Pays": "Jersey"
+ },
+ {
+   "Indicatif": 447797,
+   "Pays": "Jersey"
+ },
+ {
+   "Indicatif": 447937,
+   "Pays": "Jersey"
+ },
+ {
+   "Indicatif": 447700,
+   "Pays": "Jersey"
+ },
+ {
+   "Indicatif": 447829,
+   "Pays": "Jersey"
+ },
+ {
+   "Indicatif": 447624,
+   "Pays": "île de Man"
+ },
+ {
+   "Indicatif": 447524,
+   "Pays": "île de Man"
+ },
+ {
+   "Indicatif": 447024,
+   "Pays": "île de Man"
+ },
+ {
+   "Indicatif": 45,
+   "Pays": "Danemark"
+ },
+ {
+   "Indicatif": 46,
+   "Pays": "Suède"
+ },
+ {
+   "Indicatif": 47,
+   "Pays": "Norvège"
+ },
+ {
+   "Indicatif": 4779,
+   "Pays": "Svalbard"
+ },
+ {
+   "Indicatif": 48,
+   "Pays": "Pologne"
+ },
+ {
+   "Indicatif": 49,
+   "Pays": "Allemagne"
+ },
+ {
+   "Indicatif": 500,
+   "Pays": "Îles Falkland"
+ },
+ {
+   "Indicatif": 501,
+   "Pays": "Belize"
+ },
+ {
+   "Indicatif": 502,
+   "Pays": "Guatemala"
+ },
+ {
+   "Indicatif": 503,
+   "Pays": "El Salvador"
+ },
+ {
+   "Indicatif": 504,
+   "Pays": "Honduras"
+ },
+ {
+   "Indicatif": 505,
+   "Pays": "Nicaragua"
+ },
+ {
+   "Indicatif": 506,
+   "Pays": "Costa Rica"
+ },
+ {
+   "Indicatif": 507,
+   "Pays": "Panama"
+ },
+ {
+   "Indicatif": 508,
+   "Pays": "Saint Pierre et Miquelon"
+ },
+ {
+   "Indicatif": 509,
+   "Pays": "Haïti"
+ },
+ {
+   "Indicatif": 51,
+   "Pays": "Pérou"
+ },
+ {
+   "Indicatif": 52,
+   "Pays": "Mexique"
+ },
+ {
+   "Indicatif": 53,
+   "Pays": "Cuba"
+ },
+ {
+   "Indicatif": 54,
+   "Pays": "République argentine"
+ },
+ {
+   "Indicatif": 55,
+   "Pays": "Brésil"
+ },
+ {
+   "Indicatif": 56,
+   "Pays": "Chili"
+ },
+ {
+   "Indicatif": 57,
+   "Pays": "Colombie"
+ },
+ {
+   "Indicatif": 58,
+   "Pays": "Venezuela"
+ },
+ {
+   "Indicatif": 590,
+   "Pays": "Guadeloupe"
+ },
+ {
+   "Indicatif": 591,
+   "Pays": "Bolivie"
+ },
+ {
+   "Indicatif": 592,
+   "Pays": "Guyana"
+ },
+ {
+   "Indicatif": 593,
+   "Pays": "Equateur"
+ },
+ {
+   "Indicatif": 594,
+   "Pays": "Guyane française"
+ },
+ {
+   "Indicatif": 595,
+   "Pays": "Paraguay"
+ },
+ {
+   "Indicatif": 596,
+   "Pays": "Martinique"
+ },
+ {
+   "Indicatif": 597,
+   "Pays": "Suriname"
+ },
+ {
+   "Indicatif": 598,
+   "Pays": "Uruguay"
+ },
+ {
+   "Indicatif": 599,
+   "Pays": "Bonaire, Saint-Eustache et Saba"
+ },
+ {
+   "Indicatif": 599,
+   "Pays": "Curacao"
+ },
+ {
+   "Indicatif": 60,
+   "Pays": "Malaisie"
+ },
+ {
+   "Indicatif": 61,
+   "Pays": "Australie"
+ },
+ {
+   "Indicatif": 62,
+   "Pays": "Indonésie"
+ },
+ {
+   "Indicatif": 63,
+   "Pays": "Philippines"
+ },
+ {
+   "Indicatif": 64,
+   "Pays": "Nouvelle-Zélande"
+ },
+ {
+   "Indicatif": 65,
+   "Pays": "Singapour"
+ },
+ {
+   "Indicatif": 66,
+   "Pays": "Thaïlande"
+ },
+ {
+   "Indicatif": 670,
+   "Pays": "Timor-Leste"
+ },
+ {
+   "Indicatif": 672,
+   "Pays": "Territoires extérieurs australiens"
+ },
+ {
+   "Indicatif": 673,
+   "Pays": "Brunei Darussalam"
+ },
+ {
+   "Indicatif": 674,
+   "Pays": "Nauru"
+ },
+ {
+   "Indicatif": 675,
+   "Pays": "Papouasie Nouvelle Guinée"
+ },
+ {
+   "Indicatif": 676,
+   "Pays": "Tonga"
+ },
+ {
+   "Indicatif": 677,
+   "Pays": "îles Salomon"
+ },
+ {
+   "Indicatif": 678,
+   "Pays": "Vanuatu"
+ },
+ {
+   "Indicatif": 679,
+   "Pays": "Fidji"
+ },
+ {
+   "Indicatif": 680,
+   "Pays": "Palau"
+ },
+ {
+   "Indicatif": 681,
+   "Pays": "Wallis et Futuna"
+ },
+ {
+   "Indicatif": 682,
+   "Pays": "Îles Cook"
+ },
+ {
+   "Indicatif": 683,
+   "Pays": "Niue"
+ },
+ {
+   "Indicatif": 685,
+   "Pays": "Samoa"
+ },
+ {
+   "Indicatif": 686,
+   "Pays": "Kiribati"
+ },
+ {
+   "Indicatif": 687,
+   "Pays": "Nouvelle-Calédonie"
+ },
+ {
+   "Indicatif": 688,
+   "Pays": "Tuvalu"
+ },
+ {
+   "Indicatif": 689,
+   "Pays": "Polynésie française"
+ },
+ {
+   "Indicatif": 690,
+   "Pays": "Tokelau"
+ },
+ {
+   "Indicatif": 691,
+   "Pays": "Micronésie"
+ },
+ {
+   "Indicatif": 692,
+   "Pays": "Îles Marshall"
+ },
+ {
+   "Indicatif": 73,
+   "Pays": "Russie"
+ },
+ {
+   "Indicatif": 74,
+   "Pays": "Russie"
+ },
+ {
+   "Indicatif": 76,
+   "Pays": "Kazakhstan"
+ },
+ {
+   "Indicatif": 77,
+   "Pays": "Kazakhstan"
+ },
+ {
+   "Indicatif": 78,
+   "Pays": "Russie"
+ },
+ {
+   "Indicatif": 79,
+   "Pays": "Russie"
+ },
+ {
+   "Indicatif": 800,
+   "Pays": "Service de téléphonie gratuit international"
+ },
+ {
+   "Indicatif": 808,
+   "Pays": "Service international à frais partagés (ISCS)"
+ },
+ {
+   "Indicatif": 81,
+   "Pays": "Japon"
+ },
+ {
+   "Indicatif": 82,
+   "Pays": "Corée du Sud"
+ },
+ {
+   "Indicatif": 84,
+   "Pays": "Viet Nam"
+ },
+ {
+   "Indicatif": 850,
+   "Pays": "Corée du Nord"
+ },
+ {
+   "Indicatif": 852,
+   "Pays": "Hong Kong"
+ },
+ {
+   "Indicatif": 853,
+   "Pays": "Macao"
+ },
+ {
+   "Indicatif": 855,
+   "Pays": "Cambodge"
+ },
+ {
+   "Indicatif": 856,
+   "Pays": "Laos"
+ },
+ {
+   "Indicatif": 86,
+   "Pays": "Chine"
+ },
+ {
+   "Indicatif": 870,
+   "Pays": "Inmarsat SNAC"
+ },
+ {
+   "Indicatif": 878,
+   "Pays": "Service universel de télécommunications personnelles (UPT)"
+ },
+ {
+   "Indicatif": 880,
+   "Pays": "Bangladesh"
+ },
+ {
+   "Indicatif": 881,
+   "Pays": "Global Mobile Satellite System (GMSS)"
+ },
+ {
+   "Indicatif": 882,
+   "Pays": "Réseaux internationaux"
+ },
+ {
+   "Indicatif": 883,
+   "Pays": "Réseaux internationaux"
+ },
+ {
+   "Indicatif": 886,
+   "Pays": "Taiwan"
+ },
+ {
+   "Indicatif": 887,
+   "Pays": "Assistance téléphonique internationale"
+ },
+ {
+   "Indicatif": 888,
+   "Pays": "À des fins humanitaires"
+ },
+ {
+   "Indicatif": 90,
+   "Pays": "Turquie"
+ },
+ {
+   "Indicatif": 91,
+   "Pays": "Inde"
+ },
+ {
+   "Indicatif": 92,
+   "Pays": "Pakistan"
+ },
+ {
+   "Indicatif": 93,
+   "Pays": "Afghanistan"
+ },
+ {
+   "Indicatif": 94,
+   "Pays": "Sri Lanka"
+ },
+ {
+   "Indicatif": 95,
+   "Pays": "Myanmar"
+ },
+ {
+   "Indicatif": 960,
+   "Pays": "Maldives"
+ },
+ {
+   "Indicatif": 961,
+   "Pays": "Liban"
+ },
+ {
+   "Indicatif": 962,
+   "Pays": "Jordanie"
+ },
+ {
+   "Indicatif": 963,
+   "Pays": "Syrie"
+ },
+ {
+   "Indicatif": 964,
+   "Pays": "Irak"
+ },
+ {
+   "Indicatif": 965,
+   "Pays": "Koweït"
+ },
+ {
+   "Indicatif": 966,
+   "Pays": "Arabie saoudite"
+ },
+ {
+   "Indicatif": 967,
+   "Pays": "Yémen"
+ },
+ {
+   "Indicatif": 968,
+   "Pays": "Oman"
+ },
+ {
+   "Indicatif": 971,
+   "Pays": "Emirats Arabes Unis"
+ },
+ {
+   "Indicatif": 972,
+   "Pays": "Israël"
+ },
+ {
+   "Indicatif": 973,
+   "Pays": "Bahreïn"
+ },
+ {
+   "Indicatif": 974,
+   "Pays": "Qatar"
+ },
+ {
+   "Indicatif": 975,
+   "Pays": "Bhoutan"
+ },
+ {
+   "Indicatif": 976,
+   "Pays": "Mongolie"
+ },
+ {
+   "Indicatif": 977,
+   "Pays": "Népal"
+ },
+ {
+   "Indicatif": 979,
+   "Pays": "Service international à tarif majoré (IPRS)"
+ },
+ {
+   "Indicatif": 98,
+   "Pays": "Iran"
+ },
+ {
+   "Indicatif": 992,
+   "Pays": "Tadjikistan"
+ },
+ {
+   "Indicatif": 993,
+   "Pays": "Turkménistan"
+ },
+ {
+   "Indicatif": 994,
+   "Pays": "Azerbaïdjan"
+ },
+ {
+   "Indicatif": 995,
+   "Pays": "Géorgie"
+ },
+ {
+   "Indicatif": 996,
+   "Pays": "République du Kirghizistan"
+ },
+ {
+   "Indicatif": 998,
+   "Pays": "Ouzbékistan"
+ },
+ {
+   "Indicatif": 1201,
+   "Pays": "New Jersey (États-Unis)"
+ },
+ {
+   "Indicatif": 1202,
+   "Pays": "District De Columbia (États-Unis)"
+ },
+ {
+   "Indicatif": 1203,
+   "Pays": "Connecticut (États-Unis)"
+ },
+ {
+   "Indicatif": 1204,
+   "Pays": "Manitoba (Canada)"
+ },
+ {
+   "Indicatif": 1205,
+   "Pays": "Alabama (États-Unis)"
+ },
+ {
+   "Indicatif": 1206,
+   "Pays": "Washington (États-Unis)"
+ },
+ {
+   "Indicatif": 1207,
+   "Pays": "Maine (États-Unis)"
+ },
+ {
+   "Indicatif": 1208,
+   "Pays": "Idaho (États-Unis)"
+ },
+ {
+   "Indicatif": 1209,
+   "Pays": "Californie (États-Unis)"
+ },
+ {
+   "Indicatif": 1210,
+   "Pays": "Texas (États-Unis)"
+ },
+ {
+   "Indicatif": 1212,
+   "Pays": "New York (États-Unis)"
+ },
+ {
+   "Indicatif": 1213,
+   "Pays": "Californie (États-Unis)"
+ },
+ {
+   "Indicatif": 1214,
+   "Pays": "Texas (États-Unis)"
+ },
+ {
+   "Indicatif": 1215,
+   "Pays": "Pennsylvanie (États-Unis)"
+ },
+ {
+   "Indicatif": 1216,
+   "Pays": "Ohio (États-Unis)"
+ },
+ {
+   "Indicatif": 1217,
+   "Pays": "Illinois (États-Unis)"
+ },
+ {
+   "Indicatif": 1218,
+   "Pays": "Minnesota (États-Unis)"
+ },
+ {
+   "Indicatif": 1219,
+   "Pays": "Indiana (États-Unis)"
+ },
+ {
+   "Indicatif": 1220,
+   "Pays": "Ohio (États-Unis)"
+ },
+ {
+   "Indicatif": 1223,
+   "Pays": "Pennsylvanie (États-Unis)"
+ },
+ {
+   "Indicatif": 1224,
+   "Pays": "Illinois (États-Unis)"
+ },
+ {
+   "Indicatif": 1225,
+   "Pays": "Louisiane (États-Unis)"
+ },
+ {
+   "Indicatif": 1226,
+   "Pays": "Ontario (Canada)"
+ },
+ {
+   "Indicatif": 1227,
+   "Pays": "Maryland (États-Unis)"
+ },
+ {
+   "Indicatif": 1228,
+   "Pays": "Mississippi (États-Unis)"
+ },
+ {
+   "Indicatif": 1229,
+   "Pays": "Géorgie (États-Unis)"
+ },
+ {
+   "Indicatif": 1231,
+   "Pays": "Michigan (États-Unis)"
+ },
+ {
+   "Indicatif": 1234,
+   "Pays": "Ohio (États-Unis)"
+ },
+ {
+   "Indicatif": 1236,
+   "Pays": "Colombie-Britannique (Canada)"
+ },
+ {
+   "Indicatif": 1239,
+   "Pays": "Floride (États-Unis)"
+ },
+ {
+   "Indicatif": 1240,
+   "Pays": "Maryland (États-Unis)"
+ },
+ {
+   "Indicatif": 1242,
+   "Pays": "Bahamas"
+ },
+ {
+   "Indicatif": 1246,
+   "Pays": "Barbade"
+ },
+ {
+   "Indicatif": 1248,
+   "Pays": "Michigan (États-Unis)"
+ },
+ {
+   "Indicatif": 1249,
+   "Pays": "Ontario (Canada)"
+ },
+ {
+   "Indicatif": 1250,
+   "Pays": "Colombie-Britannique (Canada)"
+ },
+ {
+   "Indicatif": 1251,
+   "Pays": "Alabama (États-Unis)"
+ },
+ {
+   "Indicatif": 1252,
+   "Pays": "Caroline Du Nord (États-Unis)"
+ },
+ {
+   "Indicatif": 1253,
+   "Pays": "Washington (États-Unis)"
+ },
+ {
+   "Indicatif": 1254,
+   "Pays": "Texas (États-Unis)"
+ },
+ {
+   "Indicatif": 1256,
+   "Pays": "Alabama (États-Unis)"
+ },
+ {
+   "Indicatif": 1257,
+   "Pays": "Canada"
+ },
+ {
+   "Indicatif": 1260,
+   "Pays": "Indiana (États-Unis)"
+ },
+ {
+   "Indicatif": 1262,
+   "Pays": "Wisconsin (États-Unis)"
+ },
+ {
+   "Indicatif": 1263,
+   "Pays": "Canada"
+ },
+ {
+   "Indicatif": 1264,
+   "Pays": "Anguilla"
+ },
+ {
+   "Indicatif": 1267,
+   "Pays": "Pennsylvanie (États-Unis)"
+ },
+ {
+   "Indicatif": 1268,
+   "Pays": "Antigua / Barbuda"
+ },
+ {
+   "Indicatif": 1269,
+   "Pays": "Michigan (États-Unis)"
+ },
+ {
+   "Indicatif": 1270,
+   "Pays": "Kentucky (États-Unis)"
+ },
+ {
+   "Indicatif": 1272,
+   "Pays": "Pennsylvanie (États-Unis)"
+ },
+ {
+   "Indicatif": 1273,
+   "Pays": "Canada"
+ },
+ {
+   "Indicatif": 1274,
+   "Pays": "Wisconsin (États-Unis)"
+ },
+ {
+   "Indicatif": 1276,
+   "Pays": "Virginie (États-Unis)"
+ },
+ {
+   "Indicatif": 1279,
+   "Pays": "Californie (États-Unis)"
+ },
+ {
+   "Indicatif": 1281,
+   "Pays": "Texas (États-Unis)"
+ },
+ {
+   "Indicatif": 1283,
+   "Pays": "Ohio (États-Unis)"
+ },
+ {
+   "Indicatif": 1284,
+   "Pays": "Îles Vierges Britanniques"
+ },
+ {
+   "Indicatif": 1289,
+   "Pays": "Ontario (Canada)"
+ },
+ {
+   "Indicatif": 1301,
+   "Pays": "Maryland (États-Unis)"
+ },
+ {
+   "Indicatif": 1302,
+   "Pays": "Delaware (États-Unis)"
+ },
+ {
+   "Indicatif": 1303,
+   "Pays": "Colorado (États-Unis)"
+ },
+ {
+   "Indicatif": 1304,
+   "Pays": "Virginie-Occidentale (États-Unis)"
+ },
+ {
+   "Indicatif": 1305,
+   "Pays": "Floride (États-Unis)"
+ },
+ {
+   "Indicatif": 1306,
+   "Pays": "Saskatchewan (Canada)"
+ },
+ {
+   "Indicatif": 1307,
+   "Pays": "Wyoming (États-Unis)"
+ },
+ {
+   "Indicatif": 1308,
+   "Pays": "Nebraska (États-Unis)"
+ },
+ {
+   "Indicatif": 1309,
+   "Pays": "Illinois (États-Unis)"
+ },
+ {
+   "Indicatif": 1310,
+   "Pays": "Californie (États-Unis)"
+ },
+ {
+   "Indicatif": 1312,
+   "Pays": "Illinois (États-Unis)"
+ },
+ {
+   "Indicatif": 1313,
+   "Pays": "Michigan (États-Unis)"
+ },
+ {
+   "Indicatif": 1314,
+   "Pays": "Missouri (États-Unis)"
+ },
+ {
+   "Indicatif": 1315,
+   "Pays": "New York (États-Unis)"
+ },
+ {
+   "Indicatif": 1316,
+   "Pays": "Kansas (États-Unis)"
+ },
+ {
+   "Indicatif": 1317,
+   "Pays": "Indiana (États-Unis)"
+ },
+ {
+   "Indicatif": 1318,
+   "Pays": "Louisiane (États-Unis)"
+ },
+ {
+   "Indicatif": 1319,
+   "Pays": "Iowa (États-Unis)"
+ },
+ {
+   "Indicatif": 1320,
+   "Pays": "Minnesota (États-Unis)"
+ },
+ {
+   "Indicatif": 1321,
+   "Pays": "Floride (États-Unis)"
+ },
+ {
+   "Indicatif": 1323,
+   "Pays": "Californie (États-Unis)"
+ },
+ {
+   "Indicatif": 1325,
+   "Pays": "Texas (États-Unis)"
+ },
+ {
+   "Indicatif": 1326,
+   "Pays": "Ohio (États-Unis)"
+ },
+ {
+   "Indicatif": 1327,
+   "Pays": "Arkansas (États-Unis)"
+ },
+ {
+   "Indicatif": 1330,
+   "Pays": "Ohio (États-Unis)"
+ },
+ {
+   "Indicatif": 1331,
+   "Pays": "Illinois (États-Unis)"
+ },
+ {
+   "Indicatif": 1332,
+   "Pays": "New York (États-Unis)"
+ },
+ {
+   "Indicatif": 1334,
+   "Pays": "Alabama (États-Unis)"
+ },
+ {
+   "Indicatif": 1336,
+   "Pays": "Caroline Du Nord (États-Unis)"
+ },
+ {
+   "Indicatif": 1337,
+   "Pays": "Louisiane (États-Unis)"
+ },
+ {
+   "Indicatif": 1339,
+   "Pays": "Massachusetts (États-Unis)"
+ },
+ {
+   "Indicatif": 1340,
+   "Pays": "Usvi (États-Unis)"
+ },
+ {
+   "Indicatif": 1341,
+   "Pays": "Californie (États-Unis)"
+ },
+ {
+   "Indicatif": 1343,
+   "Pays": "Ontario (Canada)"
+ },
+ {
+   "Indicatif": 1345,
+   "Pays": "Îles Caïmans"
+ },
+ {
+   "Indicatif": 1346,
+   "Pays": "Texas (États-Unis)"
+ },
+ {
+   "Indicatif": 1347,
+   "Pays": "New York (États-Unis)"
+ },
+ {
+   "Indicatif": 1351,
+   "Pays": "Massachusetts (États-Unis)"
+ },
+ {
+   "Indicatif": 1352,
+   "Pays": "Floride (États-Unis)"
+ },
+ {
+   "Indicatif": 1353,
+   "Pays": "États-Unis"
+ },
+ {
+   "Indicatif": 1354,
+   "Pays": "Quebec (Canada)"
+ },
+ {
+   "Indicatif": 1360,
+   "Pays": "Washington (États-Unis)"
+ },
+ {
+   "Indicatif": 1361,
+   "Pays": "Texas (États-Unis)"
+ },
+ {
+   "Indicatif": 1364,
+   "Pays": "Kentucky (États-Unis)"
+ },
+ {
+   "Indicatif": 1365,
+   "Pays": "Ontario (Canada)"
+ },
+ {
+   "Indicatif": 1367,
+   "Pays": "Quebec, Canada)"
+ },
+ {
+   "Indicatif": 1368,
+   "Pays": "Alberta (Canada)"
+ },
+ {
+   "Indicatif": 1369,
+   "Pays": "États-Unis"
+ },
+ {
+   "Indicatif": 1380,
+   "Pays": "Ohio (États-Unis)"
+ },
+ {
+   "Indicatif": 1382,
+   "Pays": "Canada"
+ },
+ {
+   "Indicatif": 1385,
+   "Pays": "Utah (États-Unis)"
+ },
+ {
+   "Indicatif": 1386,
+   "Pays": "Floride (États-Unis)"
+ },
+ {
+   "Indicatif": 1387,
+   "Pays": "Canada"
+ },
+ {
+   "Indicatif": 1401,
+   "Pays": "Rhode Island (États-Unis)"
+ },
+ {
+   "Indicatif": 1402,
+   "Pays": "Nebraska (États-Unis)"
+ },
+ {
+   "Indicatif": 1403,
+   "Pays": "Alberta (Canada)"
+ },
+ {
+   "Indicatif": 1404,
+   "Pays": "Géorgie (États-Unis)"
+ },
+ {
+   "Indicatif": 1405,
+   "Pays": "Oklahoma (États-Unis)"
+ },
+ {
+   "Indicatif": 1406,
+   "Pays": "Montana (États-Unis)"
+ },
+ {
+   "Indicatif": 1407,
+   "Pays": "Floride (États-Unis)"
+ },
+ {
+   "Indicatif": 1408,
+   "Pays": "Californie (États-Unis)"
+ },
+ {
+   "Indicatif": 1409,
+   "Pays": "Texas (États-Unis)"
+ },
+ {
+   "Indicatif": 1410,
+   "Pays": "Maryland (États-Unis)"
+ },
+ {
+   "Indicatif": 1412,
+   "Pays": "Pennsylvanie (États-Unis)"
+ },
+ {
+   "Indicatif": 1413,
+   "Pays": "Massachusetts (États-Unis)"
+ },
+ {
+   "Indicatif": 1414,
+   "Pays": "Wisconsin (États-Unis)"
+ },
+ {
+   "Indicatif": 1415,
+   "Pays": "Californie (États-Unis)"
+ },
+ {
+   "Indicatif": 1416,
+   "Pays": "Ontario (Canada)"
+ },
+ {
+   "Indicatif": 1417,
+   "Pays": "Missouri (États-Unis)"
+ },
+ {
+   "Indicatif": 1418,
+   "Pays": "Quebec, Canada)"
+ },
+ {
+   "Indicatif": 1419,
+   "Pays": "Ohio (États-Unis)"
+ },
+ {
+   "Indicatif": 1423,
+   "Pays": "Tennessee (États-Unis)"
+ },
+ {
+   "Indicatif": 1424,
+   "Pays": "Californie (États-Unis)"
+ },
+ {
+   "Indicatif": 1425,
+   "Pays": "Washington (États-Unis)"
+ },
+ {
+   "Indicatif": 1428,
+   "Pays": "Nouveau-Brunswick (Canada)"
+ },
+ {
+   "Indicatif": 1430,
+   "Pays": "Texas (États-Unis)"
+ },
+ {
+   "Indicatif": 1431,
+   "Pays": "Manitoba (Canada)"
+ },
+ {
+   "Indicatif": 1432,
+   "Pays": "Texas (États-Unis)"
+ },
+ {
+   "Indicatif": 1434,
+   "Pays": "Virginie (États-Unis)"
+ },
+ {
+   "Indicatif": 1435,
+   "Pays": "Utah (États-Unis)"
+ },
+ {
+   "Indicatif": 1437,
+   "Pays": "Ontario (Canada)"
+ },
+ {
+   "Indicatif": 1438,
+   "Pays": "Quebec, Canada)"
+ },
+ {
+   "Indicatif": 1440,
+   "Pays": "Ohio (États-Unis)"
+ },
+ {
+   "Indicatif": 1441,
+   "Pays": "Bermudes"
+ },
+ {
+   "Indicatif": 1442,
+   "Pays": "Californie (États-Unis)"
+ },
+ {
+   "Indicatif": 1443,
+   "Pays": "Maryland (États-Unis)"
+ },
+ {
+   "Indicatif": 1445,
+   "Pays": "Pennsylvanie (États-Unis)"
+ },
+ {
+   "Indicatif": 1447,
+   "Pays": "Illinois (États-Unis)"
+ },
+ {
+   "Indicatif": 1448,
+   "Pays": "Floride (États-Unis)"
+ },
+ {
+   "Indicatif": 1450,
+   "Pays": "Quebec (Canada)"
+ },
+ {
+   "Indicatif": 1458,
+   "Pays": "Oregon (États-Unis)"
+ },
+ {
+   "Indicatif": 1460,
+   "Pays": "Canada"
+ },
+ {
+   "Indicatif": 1463,
+   "Pays": "Indiana (États-Unis)"
+ },
+ {
+   "Indicatif": 1464,
+   "Pays": "Illinois (États-Unis)"
+ },
+ {
+   "Indicatif": 1468,
+   "Pays": "Canada"
+ },
+ {
+   "Indicatif": 1469,
+   "Pays": "Texas (États-Unis)"
+ },
+ {
+   "Indicatif": 1470,
+   "Pays": "Géorgie (États-Unis)"
+ },
+ {
+   "Indicatif": 1473,
+   "Pays": "Grenade"
+ },
+ {
+   "Indicatif": 1474,
+   "Pays": "Saskatchewan (Canada)"
+ },
+ {
+   "Indicatif": 1475,
+   "Pays": "Connecticut (États-Unis)"
+ },
+ {
+   "Indicatif": 1478,
+   "Pays": "Géorgie (États-Unis)"
+ },
+ {
+   "Indicatif": 1479,
+   "Pays": "Arkansas (États-Unis)"
+ },
+ {
+   "Indicatif": 1480,
+   "Pays": "Arizona (États-Unis)"
+ },
+ {
+   "Indicatif": 1484,
+   "Pays": "Pennsylvanie (États-Unis)"
+ },
+ {
+   "Indicatif": 1487,
+   "Pays": "Canada"
+ },
+ {
+   "Indicatif": 1501,
+   "Pays": "Arkansas (États-Unis)"
+ },
+ {
+   "Indicatif": 1502,
+   "Pays": "Kentucky (États-Unis)"
+ },
+ {
+   "Indicatif": 1503,
+   "Pays": "Oregon (États-Unis)"
+ },
+ {
+   "Indicatif": 1504,
+   "Pays": "Louisiane (États-Unis)"
+ },
+ {
+   "Indicatif": 1505,
+   "Pays": "Nouveau-Mexique (États-Unis)"
+ },
+ {
+   "Indicatif": 1506,
+   "Pays": "Nouveau-Brunswick (Canada)"
+ },
+ {
+   "Indicatif": 1507,
+   "Pays": "Minnesota (États-Unis)"
+ },
+ {
+   "Indicatif": 1508,
+   "Pays": "Massachusetts (États-Unis)"
+ },
+ {
+   "Indicatif": 1509,
+   "Pays": "Washington (États-Unis)"
+ },
+ {
+   "Indicatif": 1510,
+   "Pays": "Californie (États-Unis)"
+ },
+ {
+   "Indicatif": 1512,
+   "Pays": "Texas (États-Unis)"
+ },
+ {
+   "Indicatif": 1513,
+   "Pays": "Ohio (États-Unis)"
+ },
+ {
+   "Indicatif": 1514,
+   "Pays": "Quebec, Canada)"
+ },
+ {
+   "Indicatif": 1515,
+   "Pays": "Iowa (États-Unis)"
+ },
+ {
+   "Indicatif": 1516,
+   "Pays": "New York (États-Unis)"
+ },
+ {
+   "Indicatif": 1517,
+   "Pays": "Michigan (États-Unis)"
+ },
+ {
+   "Indicatif": 1518,
+   "Pays": "New York (États-Unis)"
+ },
+ {
+   "Indicatif": 1519,
+   "Pays": "Ontario (Canada)"
+ },
+ {
+   "Indicatif": 1520,
+   "Pays": "Arizona (États-Unis)"
+ },
+ {
+   "Indicatif": 1525,
+   "Pays": "États-Unis"
+ },
+ {
+   "Indicatif": 1526,
+   "Pays": "États-Unis"
+ },
+ {
+   "Indicatif": 1530,
+   "Pays": "Californie (États-Unis)"
+ },
+ {
+   "Indicatif": 1531,
+   "Pays": "Nebraska (États-Unis)"
+ },
+ {
+   "Indicatif": 1534,
+   "Pays": "Wisconsin (États-Unis)"
+ },
+ {
+   "Indicatif": 1537,
+   "Pays": "Canada"
+ },
+ {
+   "Indicatif": 1539,
+   "Pays": "Oklahoma (États-Unis)"
+ },
+ {
+   "Indicatif": 1540,
+   "Pays": "Virginie (États-Unis)"
+ },
+ {
+   "Indicatif": 1541,
+   "Pays": "Oregon (États-Unis)"
+ },
+ {
+   "Indicatif": 1548,
+   "Pays": "Ontario (Canada)"
+ },
+ {
+   "Indicatif": 1551,
+   "Pays": "New Jersey (États-Unis)"
+ },
+ {
+   "Indicatif": 1557,
+   "Pays": "Missouri (États-Unis)"
+ },
+ {
+   "Indicatif": 1559,
+   "Pays": "Californie (États-Unis)"
+ },
+ {
+   "Indicatif": 1561,
+   "Pays": "Floride (États-Unis)"
+ },
+ {
+   "Indicatif": 1562,
+   "Pays": "Californie (États-Unis)"
+ },
+ {
+   "Indicatif": 1563,
+   "Pays": "Iowa (États-Unis)"
+ },
+ {
+   "Indicatif": 1564,
+   "Pays": "Washington (États-Unis)"
+ },
+ {
+   "Indicatif": 1567,
+   "Pays": "Ohio (États-Unis)"
+ },
+ {
+   "Indicatif": 1568,
+   "Pays": "Canada"
+ },
+ {
+   "Indicatif": 1570,
+   "Pays": "Pennsylvanie (États-Unis)"
+ },
+ {
+   "Indicatif": 1571,
+   "Pays": "Virginie (États-Unis)"
+ },
+ {
+   "Indicatif": 1572,
+   "Pays": "Oklahoma (États-Unis)"
+ },
+ {
+   "Indicatif": 1573,
+   "Pays": "Missouri (États-Unis)"
+ },
+ {
+   "Indicatif": 1574,
+   "Pays": "Indiana (États-Unis)"
+ },
+ {
+   "Indicatif": 1575,
+   "Pays": "Nouveau-Mexique (États-Unis)"
+ },
+ {
+   "Indicatif": 1579,
+   "Pays": "Quebec (Canada)"
+ },
+ {
+   "Indicatif": 1580,
+   "Pays": "Oklahoma (États-Unis)"
+ },
+ {
+   "Indicatif": 1581,
+   "Pays": "Quebec (Canada)"
+ },
+ {
+   "Indicatif": 1582,
+   "Pays": "Pennsylvanie (États-Unis)"
+ },
+ {
+   "Indicatif": 1584,
+   "Pays": "Canada"
+ },
+ {
+   "Indicatif": 1585,
+   "Pays": "New York (États-Unis)"
+ },
+ {
+   "Indicatif": 1586,
+   "Pays": "Michigan (États-Unis)"
+ },
+ {
+   "Indicatif": 1587,
+   "Pays": "Alberta (Canada)"
+ },
+ {
+   "Indicatif": 1600,
+   "Pays": "Canada"
+ },
+ {
+   "Indicatif": 1601,
+   "Pays": "Mississippi (États-Unis)"
+ },
+ {
+   "Indicatif": 1602,
+   "Pays": "Arizona (États-Unis)"
+ },
+ {
+   "Indicatif": 1603,
+   "Pays": "New Hampshire (États-Unis)"
+ },
+ {
+   "Indicatif": 1604,
+   "Pays": "Colombie-Britannique (Canada)"
+ },
+ {
+   "Indicatif": 1605,
+   "Pays": "Dakota Du Sud (États-Unis)"
+ },
+ {
+   "Indicatif": 1606,
+   "Pays": "Kentucky (États-Unis)"
+ },
+ {
+   "Indicatif": 1607,
+   "Pays": "New York (États-Unis)"
+ },
+ {
+   "Indicatif": 1608,
+   "Pays": "Wisconsin (États-Unis)"
+ },
+ {
+   "Indicatif": 1609,
+   "Pays": "New Jersey (États-Unis)"
+ },
+ {
+   "Indicatif": 1610,
+   "Pays": "Pennsylvanie (États-Unis)"
+ },
+ {
+   "Indicatif": 1612,
+   "Pays": "Minnesota (États-Unis)"
+ },
+ {
+   "Indicatif": 1613,
+   "Pays": "Ontario (Canada)"
+ },
+ {
+   "Indicatif": 1614,
+   "Pays": "Ohio (États-Unis)"
+ },
+ {
+   "Indicatif": 1615,
+   "Pays": "Tennessee (États-Unis)"
+ },
+ {
+   "Indicatif": 1616,
+   "Pays": "Michigan (États-Unis)"
+ },
+ {
+   "Indicatif": 1617,
+   "Pays": "Massachusetts (États-Unis)"
+ },
+ {
+   "Indicatif": 1618,
+   "Pays": "Illinois (États-Unis)"
+ },
+ {
+   "Indicatif": 1619,
+   "Pays": "Californie (États-Unis)"
+ },
+ {
+   "Indicatif": 1620,
+   "Pays": "Kansas (États-Unis)"
+ },
+ {
+   "Indicatif": 1622,
+   "Pays": "Canada (Canada)"
+ },
+ {
+   "Indicatif": 1623,
+   "Pays": "Arizona (États-Unis)"
+ },
+ {
+   "Indicatif": 1626,
+   "Pays": "Californie (États-Unis)"
+ },
+ {
+   "Indicatif": 1627,
+   "Pays": "États-Unis"
+ },
+ {
+   "Indicatif": 1628,
+   "Pays": "Californie (États-Unis)"
+ },
+ {
+   "Indicatif": 1629,
+   "Pays": "Tennessee (États-Unis)"
+ },
+ {
+   "Indicatif": 1630,
+   "Pays": "Illinois (États-Unis)"
+ },
+ {
+   "Indicatif": 1631,
+   "Pays": "New York (États-Unis)"
+ },
+ {
+   "Indicatif": 1636,
+   "Pays": "Missouri (États-Unis)"
+ },
+ {
+   "Indicatif": 1639,
+   "Pays": "Saskatchewan (Canada)"
+ },
+ {
+   "Indicatif": 1640,
+   "Pays": "New Jersey (États-Unis)"
+ },
+ {
+   "Indicatif": 1641,
+   "Pays": "Iowa (États-Unis)"
+ },
+ {
+   "Indicatif": 1646,
+   "Pays": "New York (États-Unis)"
+ },
+ {
+   "Indicatif": 1647,
+   "Pays": "Ontario (Canada)"
+ },
+ {
+   "Indicatif": 1649,
+   "Pays": "Iles Turks Et Caicos"
+ },
+ {
+   "Indicatif": 1650,
+   "Pays": "Californie (États-Unis)"
+ },
+ {
+   "Indicatif": 1651,
+   "Pays": "Minnesota (États-Unis)"
+ },
+ {
+   "Indicatif": 1656,
+   "Pays": "Floride (États-Unis)"
+ },
+ {
+   "Indicatif": 1657,
+   "Pays": "Californie (États-Unis)"
+ },
+ {
+   "Indicatif": 1658,
+   "Pays": "Jamaïque"
+ },
+ {
+   "Indicatif": 1659,
+   "Pays": "Alabama (États-Unis)"
+ },
+ {
+   "Indicatif": 1660,
+   "Pays": "Missouri (États-Unis)"
+ },
+ {
+   "Indicatif": 1661,
+   "Pays": "Californie (États-Unis)"
+ },
+ {
+   "Indicatif": 1662,
+   "Pays": "Mississippi (États-Unis)"
+ },
+ {
+   "Indicatif": 1664,
+   "Pays": "Montserrat"
+ },
+ {
+   "Indicatif": 1667,
+   "Pays": "Maryland (États-Unis)"
+ },
+ {
+   "Indicatif": 1669,
+   "Pays": "Californie (États-Unis)"
+ },
+ {
+   "Indicatif": 1670,
+   "Pays": "États-Unis"
+ },
+ {
+   "Indicatif": 1671,
+   "Pays": "Guam (États-Unis)"
+ },
+ {
+   "Indicatif": 1672,
+   "Pays": "Colombie-Britannique (Canada)"
+ },
+ {
+   "Indicatif": 1678,
+   "Pays": "Géorgie (États-Unis)"
+ },
+ {
+   "Indicatif": 1679,
+   "Pays": "Michigan (États-Unis)"
+ },
+ {
+   "Indicatif": 1680,
+   "Pays": "New York (États-Unis)"
+ },
+ {
+   "Indicatif": 1681,
+   "Pays": "Virginie-Occidentale (États-Unis)"
+ },
+ {
+   "Indicatif": 1682,
+   "Pays": "Texas (États-Unis)"
+ },
+ {
+   "Indicatif": 1683,
+   "Pays": "Canada"
+ },
+ {
+   "Indicatif": 1684,
+   "Pays": "Samoa Américaines (États-Unis)"
+ },
+ {
+   "Indicatif": 1689,
+   "Pays": "Floride (États-Unis)"
+ },
+ {
+   "Indicatif": 1701,
+   "Pays": "Dakota Du Nord (États-Unis)"
+ },
+ {
+   "Indicatif": 1702,
+   "Pays": "Nevada (États-Unis)"
+ },
+ {
+   "Indicatif": 1703,
+   "Pays": "Virginie (États-Unis)"
+ },
+ {
+   "Indicatif": 1704,
+   "Pays": "Caroline Du Nord (États-Unis)"
+ },
+ {
+   "Indicatif": 1705,
+   "Pays": "Ontario (Canada)"
+ },
+ {
+   "Indicatif": 1706,
+   "Pays": "Géorgie (États-Unis)"
+ },
+ {
+   "Indicatif": 1707,
+   "Pays": "Californie (États-Unis)"
+ },
+ {
+   "Indicatif": 1708,
+   "Pays": "Illinois (États-Unis)"
+ },
+ {
+   "Indicatif": 1709,
+   "Pays": "Terre-Neuve-Et-Labrador (Canada)"
+ },
+ {
+   "Indicatif": 1710,
+   "Pays": "États-Unis"
+ },
+ {
+   "Indicatif": 1712,
+   "Pays": "Iowa (États-Unis)"
+ },
+ {
+   "Indicatif": 1713,
+   "Pays": "Texas (États-Unis)"
+ },
+ {
+   "Indicatif": 1714,
+   "Pays": "Californie (États-Unis)"
+ },
+ {
+   "Indicatif": 1715,
+   "Pays": "Wisconsin (États-Unis)"
+ },
+ {
+   "Indicatif": 1716,
+   "Pays": "New York (États-Unis)"
+ },
+ {
+   "Indicatif": 1717,
+   "Pays": "Pennsylvanie (États-Unis)"
+ },
+ {
+   "Indicatif": 1718,
+   "Pays": "New York (États-Unis)"
+ },
+ {
+   "Indicatif": 1719,
+   "Pays": "Colorado (États-Unis)"
+ },
+ {
+   "Indicatif": 1720,
+   "Pays": "Colorado (États-Unis)"
+ },
+ {
+   "Indicatif": 1721,
+   "Pays": "Sint Maarten"
+ },
+ {
+   "Indicatif": 1724,
+   "Pays": "Pennsylvanie (États-Unis)"
+ },
+ {
+   "Indicatif": 1725,
+   "Pays": "Nevada (États-Unis)"
+ },
+ {
+   "Indicatif": 1726,
+   "Pays": "Texas (États-Unis)"
+ },
+ {
+   "Indicatif": 1727,
+   "Pays": "Floride (États-Unis)"
+ },
+ {
+   "Indicatif": 1730,
+   "Pays": "Illinois (États-Unis)"
+ },
+ {
+   "Indicatif": 1731,
+   "Pays": "Tennessee (États-Unis)"
+ },
+ {
+   "Indicatif": 1732,
+   "Pays": "New Jersey (États-Unis)"
+ },
+ {
+   "Indicatif": 1734,
+   "Pays": "Michigan (États-Unis)"
+ },
+ {
+   "Indicatif": 1737,
+   "Pays": "Texas (États-Unis)"
+ },
+ {
+   "Indicatif": 1740,
+   "Pays": "Ohio (États-Unis)"
+ },
+ {
+   "Indicatif": 1742,
+   "Pays": "Ontario (Canada)"
+ },
+ {
+   "Indicatif": 1743,
+   "Pays": "Caroline Du Nord (États-Unis)"
+ },
+ {
+   "Indicatif": 1747,
+   "Pays": "Californie (États-Unis)"
+ },
+ {
+   "Indicatif": 1753,
+   "Pays": "Canada"
+ },
+ {
+   "Indicatif": 1754,
+   "Pays": "Floride (États-Unis)"
+ },
+ {
+   "Indicatif": 1757,
+   "Pays": "Virginie (États-Unis)"
+ },
+ {
+   "Indicatif": 1758,
+   "Pays": "Sainte Lucie"
+ },
+ {
+   "Indicatif": 1760,
+   "Pays": "Californie (États-Unis)"
+ },
+ {
+   "Indicatif": 1762,
+   "Pays": "Géorgie (États-Unis)"
+ },
+ {
+   "Indicatif": 1763,
+   "Pays": "Minnesota (États-Unis)"
+ },
+ {
+   "Indicatif": 1764,
+   "Pays": "États-Unis"
+ },
+ {
+   "Indicatif": 1765,
+   "Pays": "Indiana (États-Unis)"
+ },
+ {
+   "Indicatif": 1767,
+   "Pays": "Dominique"
+ },
+ {
+   "Indicatif": 1769,
+   "Pays": "Mississippi (États-Unis)"
+ },
+ {
+   "Indicatif": 1770,
+   "Pays": "Géorgie (États-Unis)"
+ },
+ {
+   "Indicatif": 1771,
+   "Pays": "District Of Columbia (États-Unis)"
+ },
+ {
+   "Indicatif": 1772,
+   "Pays": "Floride (États-Unis)"
+ },
+ {
+   "Indicatif": 1773,
+   "Pays": "Illinois (États-Unis)"
+ },
+ {
+   "Indicatif": 1774,
+   "Pays": "Massachusetts (États-Unis)"
+ },
+ {
+   "Indicatif": 1775,
+   "Pays": "Nevada (États-Unis)"
+ },
+ {
+   "Indicatif": 1778,
+   "Pays": "Colombie-Britannique (Canada)"
+ },
+ {
+   "Indicatif": 1779,
+   "Pays": "Illinois (États-Unis)"
+ },
+ {
+   "Indicatif": 1780,
+   "Pays": "Alberta (Canada)"
+ },
+ {
+   "Indicatif": 1781,
+   "Pays": "Massachusetts (États-Unis)"
+ },
+ {
+   "Indicatif": 1782,
+   "Pays": "Nouvelle-Écosse - Île Du Prince Édouard (Canada)"
+ },
+ {
+   "Indicatif": 1784,
+   "Pays": "Saint Vincent & Grenadines"
+ },
+ {
+   "Indicatif": 1785,
+   "Pays": "Kansas (États-Unis)"
+ },
+ {
+   "Indicatif": 1786,
+   "Pays": "Floride (États-Unis)"
+ },
+ {
+   "Indicatif": 1787,
+   "Pays": "Puerto Rico (États-Unis)"
+ },
+ {
+   "Indicatif": 1801,
+   "Pays": "Utah (États-Unis)"
+ },
+ {
+   "Indicatif": 1802,
+   "Pays": "Vermont (États-Unis)"
+ },
+ {
+   "Indicatif": 1803,
+   "Pays": "Caroline Du Sud (États-Unis)"
+ },
+ {
+   "Indicatif": 1804,
+   "Pays": "Virginie (États-Unis)"
+ },
+ {
+   "Indicatif": 1805,
+   "Pays": "Californie (États-Unis)"
+ },
+ {
+   "Indicatif": 1806,
+   "Pays": "Texas (États-Unis)"
+ },
+ {
+   "Indicatif": 1807,
+   "Pays": "Ontario (Canada)"
+ },
+ {
+   "Indicatif": 1808,
+   "Pays": "Hawaï (États-Unis)"
+ },
+ {
+   "Indicatif": 1809,
+   "Pays": "République Dominicaine"
+ },
+ {
+   "Indicatif": 1810,
+   "Pays": "Michigan (États-Unis)"
+ },
+ {
+   "Indicatif": 1812,
+   "Pays": "Indiana (États-Unis)"
+ },
+ {
+   "Indicatif": 1813,
+   "Pays": "Floride (États-Unis)"
+ },
+ {
+   "Indicatif": 1814,
+   "Pays": "Pennsylvanie (États-Unis)"
+ },
+ {
+   "Indicatif": 1815,
+   "Pays": "Illinois (États-Unis)"
+ },
+ {
+   "Indicatif": 1816,
+   "Pays": "Missouri (États-Unis)"
+ },
+ {
+   "Indicatif": 1817,
+   "Pays": "Texas (États-Unis)"
+ },
+ {
+   "Indicatif": 1818,
+   "Pays": "Californie (États-Unis)"
+ },
+ {
+   "Indicatif": 1819,
+   "Pays": "Quebec (Canada)"
+ },
+ {
+   "Indicatif": 1820,
+   "Pays": "Californie (États-Unis)"
+ },
+ {
+   "Indicatif": 1825,
+   "Pays": "Alberta (Canada)"
+ },
+ {
+   "Indicatif": 1826,
+   "Pays": "Virginie (nous)"
+ },
+ {
+   "Indicatif": 1828,
+   "Pays": "Caroline du Nord (États-Unis)"
+ },
+ {
+   "Indicatif": 1829,
+   "Pays": "République Dominicaine"
+ },
+ {
+   "Indicatif": 1830,
+   "Pays": "Texas (États-Unis)"
+ },
+ {
+   "Indicatif": 1831,
+   "Pays": "Californie (États-Unis)"
+ },
+ {
+   "Indicatif": 1832,
+   "Pays": "Texas (États-Unis)"
+ },
+ {
+   "Indicatif": 1835,
+   "Pays": "États-Unis"
+ },
+ {
+   "Indicatif": 1838,
+   "Pays": "New York (États-Unis)"
+ },
+ {
+   "Indicatif": 1839,
+   "Pays": "Caroline du Sud (États-Unis)"
+ },
+ {
+   "Indicatif": 1840,
+   "Pays": "Californie (États-Unis)"
+ },
+ {
+   "Indicatif": 1843,
+   "Pays": "Caroline du Sud (États-Unis)"
+ },
+ {
+   "Indicatif": 1845,
+   "Pays": "New York (États-Unis)"
+ },
+ {
+   "Indicatif": 1847,
+   "Pays": "Illinois (États-Unis)"
+ },
+ {
+   "Indicatif": 1848,
+   "Pays": "New Jersey (États-Unis)"
+ },
+ {
+   "Indicatif": 1849,
+   "Pays": "République Dominicaine"
+ },
+ {
+   "Indicatif": 1850,
+   "Pays": "Floride (États-Unis)"
+ },
+ {
+   "Indicatif": 1851,
+   "Pays": "Canada"
+ },
+ {
+   "Indicatif": 1854,
+   "Pays": "Caroline du Sud (États-Unis)"
+ },
+ {
+   "Indicatif": 1856,
+   "Pays": "New Jersey (États-Unis)"
+ },
+ {
+   "Indicatif": 1857,
+   "Pays": "Massachusetts (États-Unis)"
+ },
+ {
+   "Indicatif": 1858,
+   "Pays": "Californie (États-Unis)"
+ },
+ {
+   "Indicatif": 1859,
+   "Pays": "Kentucky (États-Unis)"
+ },
+ {
+   "Indicatif": 1860,
+   "Pays": "Connecticut (États-Unis)"
+ },
+ {
+   "Indicatif": 1862,
+   "Pays": "New Jersey (États-Unis)"
+ },
+ {
+   "Indicatif": 1863,
+   "Pays": "Floride (États-Unis)"
+ },
+ {
+   "Indicatif": 1864,
+   "Pays": "Caroline du Sud (États-Unis)"
+ },
+ {
+   "Indicatif": 1865,
+   "Pays": "Tennessee (États-Unis)"
+ },
+ {
+   "Indicatif": 1867,
+   "Pays": "Nunavut (Canada)"
+ },
+ {
+   "Indicatif": 1868,
+   "Pays": "Trinité-et-Tobago"
+ },
+ {
+   "Indicatif": 1869,
+   "Pays": "Saint-Kitts-et-Nevis"
+ },
+ {
+   "Indicatif": 1870,
+   "Pays": "Arkansas (États-Unis)"
+ },
+ {
+   "Indicatif": 1871,
+   "Pays": "Canada"
+ },
+ {
+   "Indicatif": 1872,
+   "Pays": "Illinois (États-Unis)"
+ },
+ {
+   "Indicatif": 1873,
+   "Pays": "Quebec, Canada)"
+ },
+ {
+   "Indicatif": 1876,
+   "Pays": "Jamaïque"
+ },
+ {
+   "Indicatif": 1878,
+   "Pays": "Pennsylvanie (États-Unis)"
+ },
+ {
+   "Indicatif": 1879,
+   "Pays": "Terre-Neuve-et-Labrador (Canada)"
+ },
+ {
+   "Indicatif": 1901,
+   "Pays": "Tennessee (États-Unis)"
+ },
+ {
+   "Indicatif": 1902,
+   "Pays": "Nouvelle-Écosse - Île-du-Prince-Édouard (Canada)"
+ },
+ {
+   "Indicatif": 1903,
+   "Pays": "Texas (États-Unis)"
+ },
+ {
+   "Indicatif": 1904,
+   "Pays": "Floride (États-Unis)"
+ },
+ {
+   "Indicatif": 1905,
+   "Pays": "Ontario (Canada)"
+ },
+ {
+   "Indicatif": 1906,
+   "Pays": "Michigan (États-Unis)"
+ },
+ {
+   "Indicatif": 1907,
+   "Pays": "Alaska (États-Unis)"
+ },
+ {
+   "Indicatif": 1908,
+   "Pays": "New Jersey (États-Unis)"
+ },
+ {
+   "Indicatif": 1909,
+   "Pays": "Californie (États-Unis)"
+ },
+ {
+   "Indicatif": 1910,
+   "Pays": "Caroline du Nord (États-Unis)"
+ },
+ {
+   "Indicatif": 1912,
+   "Pays": "Géorgie (États-Unis)"
+ },
+ {
+   "Indicatif": 1913,
+   "Pays": "Kansas (États-Unis)"
+ },
+ {
+   "Indicatif": 1914,
+   "Pays": "New York (États-Unis)"
+ },
+ {
+   "Indicatif": 1915,
+   "Pays": "Texas (États-Unis)"
+ },
+ {
+   "Indicatif": 1916,
+   "Pays": "Californie (États-Unis)"
+ },
+ {
+   "Indicatif": 1917,
+   "Pays": "New York (États-Unis)"
+ },
+ {
+   "Indicatif": 1918,
+   "Pays": "Oklahoma (États-Unis)"
+ },
+ {
+   "Indicatif": 1919,
+   "Pays": "Caroline du Nord (États-Unis)"
+ },
+ {
+   "Indicatif": 1920,
+   "Pays": "Wisconsin (États-Unis)"
+ },
+ {
+   "Indicatif": 1925,
+   "Pays": "Californie (États-Unis)"
+ },
+ {
+   "Indicatif": 1928,
+   "Pays": "Arizona (États-Unis)"
+ },
+ {
+   "Indicatif": 1929,
+   "Pays": "New York (États-Unis)"
+ },
+ {
+   "Indicatif": 1930,
+   "Pays": "Indiana (États-Unis)"
+ },
+ {
+   "Indicatif": 1931,
+   "Pays": "Tennessee (États-Unis)"
+ },
+ {
+   "Indicatif": 1934,
+   "Pays": "New York (États-Unis)"
+ },
+ {
+   "Indicatif": 1935,
+   "Pays": "États-Unis"
+ },
+ {
+   "Indicatif": 1936,
+   "Pays": "Texas (États-Unis)"
+ },
+ {
+   "Indicatif": 1937,
+   "Pays": "Ohio (États-Unis)"
+ },
+ {
+   "Indicatif": 1938,
+   "Pays": "Alabama (États-Unis)"
+ },
+ {
+   "Indicatif": 1939,
+   "Pays": "Porto Rico (États-Unis)"
+ },
+ {
+   "Indicatif": 1940,
+   "Pays": "Texas (États-Unis)"
+ },
+ {
+   "Indicatif": 1941,
+   "Pays": "Floride (États-Unis)"
+ },
+ {
+   "Indicatif": 1942,
+   "Pays": "Canada"
+ },
+ {
+   "Indicatif": 1943,
+   "Pays": "Géorgie (États-Unis)"
+ },
+ {
+   "Indicatif": 1945,
+   "Pays": "Texas (États-Unis)"
+ },
+ {
+   "Indicatif": 1947,
+   "Pays": "Michigan (États-Unis)"
+ },
+ {
+   "Indicatif": 1948,
+   "Pays": "Virginie (nous)"
+ },
+ {
+   "Indicatif": 1949,
+   "Pays": "Californie (États-Unis)"
+ },
+ {
+   "Indicatif": 1951,
+   "Pays": "Californie (États-Unis)"
+ },
+ {
+   "Indicatif": 1952,
+   "Pays": "Minnesota (États-Unis)"
+ },
+ {
+   "Indicatif": 1954,
+   "Pays": "Floride (États-Unis)"
+ },
+ {
+   "Indicatif": 1956,
+   "Pays": "Texas (États-Unis)"
+ },
+ {
+   "Indicatif": 1959,
+   "Pays": "Connecticut (États-Unis)"
+ },
+ {
+   "Indicatif": 1970,
+   "Pays": "Colorado (États-Unis)"
+ },
+ {
+   "Indicatif": 1971,
+   "Pays": "Oregon (États-Unis)"
+ },
+ {
+   "Indicatif": 1972,
+   "Pays": "Texas (États-Unis)"
+ },
+ {
+   "Indicatif": 1973,
+   "Pays": "New Jersey (États-Unis)"
+ },
+ {
+   "Indicatif": 1975,
+   "Pays": "Missouri (nous)"
+ },
+ {
+   "Indicatif": 1978,
+   "Pays": "Massachusetts (États-Unis)"
+ },
+ {
+   "Indicatif": 1979,
+   "Pays": "Texas (États-Unis)"
+ },
+ {
+   "Indicatif": 1980,
+   "Pays": "Caroline du Nord (États-Unis)"
+ },
+ {
+   "Indicatif": 1984,
+   "Pays": "Caroline du Nord (États-Unis)"
+ },
+ {
+   "Indicatif": 1985,
+   "Pays": "Louisiane (États-Unis)"
+ },
+ {
+   "Indicatif": 1986,
+   "Pays": "Idaho (États-Unis)"
+ },
+ {
+   "Indicatif": 1989,
+   "Pays": "Michigan (États-Unis)"
+ }
+]

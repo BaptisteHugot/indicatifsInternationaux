@@ -1,0 +1,686 @@
+Indicatif,Pays
+20,Égypte
+211,Soudan du Sud
+212,Maroc
+213,Algérie
+216,Tunisie
+218,Libye
+220,Gambie
+221,Sénégal
+222,Mauritanie
+223,Mali
+224,Guinée
+225,Côte d'Ivoire
+226,Burkina Faso
+227,Niger
+228,Togo
+229,Bénin
+230,Maurice
+231,Libéria
+232,Sierra Leone
+233,Ghana
+234,Nigéria
+235,Tchad
+236,République centrafricaine
+237,Cameroun
+238,Cap Vert
+239,Sao Tomé et Principe
+240,Guinée équatoriale
+241,Gabon
+242,Congo
+243,République Démocratique du Congo
+244,Angola
+245,Guinée-Bissau
+246,Diego Garcia
+247,"Sainte-Hélène, Ascension et Tristan da Cunha"
+248,Seychelles
+249,Soudan
+250,Rwanda
+251,Éthiopie
+252,Somalie
+253,Djibouti
+254,Kenya
+255,Tanzanie
+256,Ouganda
+257,Burundi
+258,Mozambique
+260,Zambie
+261,Madagascar
+262,Départements et territoires français de l'océan Indien
+263,Zimbabwe
+264,Namibie
+265,Malawi
+266,Lesotho
+267,Botswana
+268,Eswatini
+269,Comores
+27,Afrique du Sud
+290,"Sainte-Hélène, Ascension et Tristan da Cunha"
+291,Érythrée
+297,Aruba
+298,Îles Féroé
+299,Groenland
+30,Grèce
+31,Pays-Bas
+32,Belgique
+33,France
+34,Espagne
+350,Gibraltar
+351,Portugal
+352,Luxembourg
+353,Irlande
+354,Islande
+355,Albanie
+356,Malte
+357,Chypre
+358,Finlande
+35818,Åland
+359,Bulgarie
+36,Hongrie
+370,Lituanie
+371,Lettonie
+372,Estonie
+373,Moldova
+374,Arménie
+375,Bélarus
+376,Andorre
+377,Monaco
+378,Saint-Marin
+379,État de la Cité du Vatican
+380,Ukraine
+381,Serbie
+382,Monténégro
+383,Kosovo
+385,Croatie
+386,Slovénie
+387,Bosnie Herzégovine
+388,Europe
+389,Macédoine du Nord
+39,Italie
+390549,Saint-Marin
+3906698,État de la Cité du Vatican
+40,Roumanie
+41,Suisse
+420,Tchéquie
+421,Slovaquie
+423,Liechtenstein
+43,Autriche
+44,Royaume-Uni de Grande-Bretagne et d'Irlande du Nord
+441534,Jersey
+441481,Guernesey
+441624,île de Man
+447781,Guernesey
+447839,Guernesey
+447911,Guernesey
+447509,Jersey
+447797,Jersey
+447937,Jersey
+447700,Jersey
+447829,Jersey
+447624,île de Man
+447524,île de Man
+447024,île de Man
+45,Danemark
+46,Suède
+47,Norvège
+4779,Svalbard
+48,Pologne
+49,Allemagne
+500,Îles Falkland
+501,Belize
+502,Guatemala
+503,El Salvador
+504,Honduras
+505,Nicaragua
+506,Costa Rica
+507,Panama
+508,Saint Pierre et Miquelon
+509,Haïti
+51,Pérou
+52,Mexique
+53,Cuba
+54,République argentine
+55,Brésil
+56,Chili
+57,Colombie
+58,Venezuela
+590,Guadeloupe
+591,Bolivie
+592,Guyana
+593,Equateur
+594,Guyane française
+595,Paraguay
+596,Martinique
+597,Suriname
+598,Uruguay
+599,"Bonaire, Saint-Eustache et Saba"
+599,Curacao
+60,Malaisie
+61,Australie
+62,Indonésie
+63,Philippines
+64,Nouvelle-Zélande
+65,Singapour
+66,Thaïlande
+670,Timor-Leste
+672,Territoires extérieurs australiens
+673,Brunei Darussalam
+674,Nauru
+675,Papouasie Nouvelle Guinée
+676,Tonga
+677,îles Salomon
+678,Vanuatu
+679,Fidji
+680,Palau
+681,Wallis et Futuna
+682,Îles Cook
+683,Niue
+685,Samoa
+686,Kiribati
+687,Nouvelle-Calédonie
+688,Tuvalu
+689,Polynésie française
+690,Tokelau
+691,Micronésie
+692,Îles Marshall
+73,Russie
+74,Russie
+76,Kazakhstan
+77,Kazakhstan
+78,Russie
+79,Russie
+800,Service de téléphonie gratuit international
+808,Service international à frais partagés (ISCS)
+81,Japon
+82,Corée du Sud
+84,Viet Nam
+850,Corée du Nord
+852,Hong Kong
+853,Macao
+855,Cambodge
+856,Laos
+86,Chine
+870,Inmarsat SNAC
+878,Service universel de télécommunications personnelles (UPT)
+880,Bangladesh
+881,Global Mobile Satellite System (GMSS)
+882,Réseaux internationaux
+883,Réseaux internationaux
+886,Taiwan
+887,Assistance téléphonique internationale
+888,À des fins humanitaires
+90,Turquie
+91,Inde
+92,Pakistan
+93,Afghanistan
+94,Sri Lanka
+95,Myanmar
+960,Maldives
+961,Liban
+962,Jordanie
+963,Syrie
+964,Irak
+965,Koweït
+966,Arabie saoudite
+967,Yémen
+968,Oman
+971,Emirats Arabes Unis
+972,Israël
+973,Bahreïn
+974,Qatar
+975,Bhoutan
+976,Mongolie
+977,Népal
+979,Service international à tarif majoré (IPRS)
+98,Iran
+992,Tadjikistan
+993,Turkménistan
+994,Azerbaïdjan
+995,Géorgie
+996,République du Kirghizistan
+998,Ouzbékistan
+1201,New Jersey (États-Unis)
+1202,District De Columbia (États-Unis)
+1203,Connecticut (États-Unis)
+1204,Manitoba (Canada)
+1205,Alabama (États-Unis)
+1206,Washington (États-Unis)
+1207,Maine (États-Unis)
+1208,Idaho (États-Unis)
+1209,Californie (États-Unis)
+1210,Texas (États-Unis)
+1212,New York (États-Unis)
+1213,Californie (États-Unis)
+1214,Texas (États-Unis)
+1215,Pennsylvanie (États-Unis)
+1216,Ohio (États-Unis)
+1217,Illinois (États-Unis)
+1218,Minnesota (États-Unis)
+1219,Indiana (États-Unis)
+1220,Ohio (États-Unis)
+1223,Pennsylvanie (États-Unis)
+1224,Illinois (États-Unis)
+1225,Louisiane (États-Unis)
+1226,Ontario (Canada)
+1227,Maryland (États-Unis)
+1228,Mississippi (États-Unis)
+1229,Géorgie (États-Unis)
+1231,Michigan (États-Unis)
+1234,Ohio (États-Unis)
+1236,Colombie-Britannique (Canada)
+1239,Floride (États-Unis)
+1240,Maryland (États-Unis)
+1242,Bahamas
+1246,Barbade
+1248,Michigan (États-Unis)
+1249,Ontario (Canada)
+1250,Colombie-Britannique (Canada)
+1251,Alabama (États-Unis)
+1252,Caroline Du Nord (États-Unis)
+1253,Washington (États-Unis)
+1254,Texas (États-Unis)
+1256,Alabama (États-Unis)
+1257,Canada
+1260,Indiana (États-Unis)
+1262,Wisconsin (États-Unis)
+1263,Canada
+1264,Anguilla
+1267,Pennsylvanie (États-Unis)
+1268,Antigua / Barbuda
+1269,Michigan (États-Unis)
+1270,Kentucky (États-Unis)
+1272,Pennsylvanie (États-Unis)
+1273,Canada
+1274,Wisconsin (États-Unis)
+1276,Virginie (États-Unis)
+1279,Californie (États-Unis)
+1281,Texas (États-Unis)
+1283,Ohio (États-Unis)
+1284,Îles Vierges Britanniques
+1289,Ontario (Canada)
+1301,Maryland (États-Unis)
+1302,Delaware (États-Unis)
+1303,Colorado (États-Unis)
+1304,Virginie-Occidentale (États-Unis)
+1305,Floride (États-Unis)
+1306,Saskatchewan (Canada)
+1307,Wyoming (États-Unis)
+1308,Nebraska (États-Unis)
+1309,Illinois (États-Unis)
+1310,Californie (États-Unis)
+1312,Illinois (États-Unis)
+1313,Michigan (États-Unis)
+1314,Missouri (États-Unis)
+1315,New York (États-Unis)
+1316,Kansas (États-Unis)
+1317,Indiana (États-Unis)
+1318,Louisiane (États-Unis)
+1319,Iowa (États-Unis)
+1320,Minnesota (États-Unis)
+1321,Floride (États-Unis)
+1323,Californie (États-Unis)
+1325,Texas (États-Unis)
+1326,Ohio (États-Unis)
+1327,Arkansas (États-Unis)
+1330,Ohio (États-Unis)
+1331,Illinois (États-Unis)
+1332,New York (États-Unis)
+1334,Alabama (États-Unis)
+1336,Caroline Du Nord (États-Unis)
+1337,Louisiane (États-Unis)
+1339,Massachusetts (États-Unis)
+1340,Usvi (États-Unis)
+1341,Californie (États-Unis)
+1343,Ontario (Canada)
+1345,Îles Caïmans
+1346,Texas (États-Unis)
+1347,New York (États-Unis)
+1351,Massachusetts (États-Unis)
+1352,Floride (États-Unis)
+1353,États-Unis
+1354,Quebec (Canada)
+1360,Washington (États-Unis)
+1361,Texas (États-Unis)
+1364,Kentucky (États-Unis)
+1365,Ontario (Canada)
+1367,"Quebec, Canada)"
+1368,Alberta (Canada)
+1369,États-Unis
+1380,Ohio (États-Unis)
+1382,Canada
+1385,Utah (États-Unis)
+1386,Floride (États-Unis)
+1387,Canada
+1401,Rhode Island (États-Unis)
+1402,Nebraska (États-Unis)
+1403,Alberta (Canada)
+1404,Géorgie (États-Unis)
+1405,Oklahoma (États-Unis)
+1406,Montana (États-Unis)
+1407,Floride (États-Unis)
+1408,Californie (États-Unis)
+1409,Texas (États-Unis)
+1410,Maryland (États-Unis)
+1412,Pennsylvanie (États-Unis)
+1413,Massachusetts (États-Unis)
+1414,Wisconsin (États-Unis)
+1415,Californie (États-Unis)
+1416,Ontario (Canada)
+1417,Missouri (États-Unis)
+1418,"Quebec, Canada)"
+1419,Ohio (États-Unis)
+1423,Tennessee (États-Unis)
+1424,Californie (États-Unis)
+1425,Washington (États-Unis)
+1428,Nouveau-Brunswick (Canada)
+1430,Texas (États-Unis)
+1431,Manitoba (Canada)
+1432,Texas (États-Unis)
+1434,Virginie (États-Unis)
+1435,Utah (États-Unis)
+1437,Ontario (Canada)
+1438,"Quebec, Canada)"
+1440,Ohio (États-Unis)
+1441,Bermudes
+1442,Californie (États-Unis)
+1443,Maryland (États-Unis)
+1445,Pennsylvanie (États-Unis)
+1447,Illinois (États-Unis)
+1448,Floride (États-Unis)
+1450,Quebec (Canada)
+1458,Oregon (États-Unis)
+1460,Canada
+1463,Indiana (États-Unis)
+1464,Illinois (États-Unis)
+1468,Canada
+1469,Texas (États-Unis)
+1470,Géorgie (États-Unis)
+1473,Grenade
+1474,Saskatchewan (Canada)
+1475,Connecticut (États-Unis)
+1478,Géorgie (États-Unis)
+1479,Arkansas (États-Unis)
+1480,Arizona (États-Unis)
+1484,Pennsylvanie (États-Unis)
+1487,Canada
+1501,Arkansas (États-Unis)
+1502,Kentucky (États-Unis)
+1503,Oregon (États-Unis)
+1504,Louisiane (États-Unis)
+1505,Nouveau-Mexique (États-Unis)
+1506,Nouveau-Brunswick (Canada)
+1507,Minnesota (États-Unis)
+1508,Massachusetts (États-Unis)
+1509,Washington (États-Unis)
+1510,Californie (États-Unis)
+1512,Texas (États-Unis)
+1513,Ohio (États-Unis)
+1514,"Quebec, Canada)"
+1515,Iowa (États-Unis)
+1516,New York (États-Unis)
+1517,Michigan (États-Unis)
+1518,New York (États-Unis)
+1519,Ontario (Canada)
+1520,Arizona (États-Unis)
+1525,États-Unis
+1526,États-Unis
+1530,Californie (États-Unis)
+1531,Nebraska (États-Unis)
+1534,Wisconsin (États-Unis)
+1537,Canada
+1539,Oklahoma (États-Unis)
+1540,Virginie (États-Unis)
+1541,Oregon (États-Unis)
+1548,Ontario (Canada)
+1551,New Jersey (États-Unis)
+1557,Missouri (États-Unis)
+1559,Californie (États-Unis)
+1561,Floride (États-Unis)
+1562,Californie (États-Unis)
+1563,Iowa (États-Unis)
+1564,Washington (États-Unis)
+1567,Ohio (États-Unis)
+1568,Canada
+1570,Pennsylvanie (États-Unis)
+1571,Virginie (États-Unis)
+1572,Oklahoma (États-Unis)
+1573,Missouri (États-Unis)
+1574,Indiana (États-Unis)
+1575,Nouveau-Mexique (États-Unis)
+1579,Quebec (Canada)
+1580,Oklahoma (États-Unis)
+1581,Quebec (Canada)
+1582,Pennsylvanie (États-Unis)
+1584,Canada
+1585,New York (États-Unis)
+1586,Michigan (États-Unis)
+1587,Alberta (Canada)
+1600,Canada
+1601,Mississippi (États-Unis)
+1602,Arizona (États-Unis)
+1603,New Hampshire (États-Unis)
+1604,Colombie-Britannique (Canada)
+1605,Dakota Du Sud (États-Unis)
+1606,Kentucky (États-Unis)
+1607,New York (États-Unis)
+1608,Wisconsin (États-Unis)
+1609,New Jersey (États-Unis)
+1610,Pennsylvanie (États-Unis)
+1612,Minnesota (États-Unis)
+1613,Ontario (Canada)
+1614,Ohio (États-Unis)
+1615,Tennessee (États-Unis)
+1616,Michigan (États-Unis)
+1617,Massachusetts (États-Unis)
+1618,Illinois (États-Unis)
+1619,Californie (États-Unis)
+1620,Kansas (États-Unis)
+1622,Canada (Canada)
+1623,Arizona (États-Unis)
+1626,Californie (États-Unis)
+1627,États-Unis
+1628,Californie (États-Unis)
+1629,Tennessee (États-Unis)
+1630,Illinois (États-Unis)
+1631,New York (États-Unis)
+1636,Missouri (États-Unis)
+1639,Saskatchewan (Canada)
+1640,New Jersey (États-Unis)
+1641,Iowa (États-Unis)
+1646,New York (États-Unis)
+1647,Ontario (Canada)
+1649,Iles Turks Et Caicos
+1650,Californie (États-Unis)
+1651,Minnesota (États-Unis)
+1656,Floride (États-Unis)
+1657,Californie (États-Unis)
+1658,Jamaïque
+1659,Alabama (États-Unis)
+1660,Missouri (États-Unis)
+1661,Californie (États-Unis)
+1662,Mississippi (États-Unis)
+1664,Montserrat
+1667,Maryland (États-Unis)
+1669,Californie (États-Unis)
+1670,États-Unis
+1671,Guam (États-Unis)
+1672,Colombie-Britannique (Canada)
+1678,Géorgie (États-Unis)
+1679,Michigan (États-Unis)
+1680,New York (États-Unis)
+1681,Virginie-Occidentale (États-Unis)
+1682,Texas (États-Unis)
+1683,Canada
+1684,Samoa Américaines (États-Unis)
+1689,Floride (États-Unis)
+1701,Dakota Du Nord (États-Unis)
+1702,Nevada (États-Unis)
+1703,Virginie (États-Unis)
+1704,Caroline Du Nord (États-Unis)
+1705,Ontario (Canada)
+1706,Géorgie (États-Unis)
+1707,Californie (États-Unis)
+1708,Illinois (États-Unis)
+1709,Terre-Neuve-Et-Labrador (Canada)
+1710,États-Unis
+1712,Iowa (États-Unis)
+1713,Texas (États-Unis)
+1714,Californie (États-Unis)
+1715,Wisconsin (États-Unis)
+1716,New York (États-Unis)
+1717,Pennsylvanie (États-Unis)
+1718,New York (États-Unis)
+1719,Colorado (États-Unis)
+1720,Colorado (États-Unis)
+1721,Sint Maarten
+1724,Pennsylvanie (États-Unis)
+1725,Nevada (États-Unis)
+1726,Texas (États-Unis)
+1727,Floride (États-Unis)
+1730,Illinois (États-Unis)
+1731,Tennessee (États-Unis)
+1732,New Jersey (États-Unis)
+1734,Michigan (États-Unis)
+1737,Texas (États-Unis)
+1740,Ohio (États-Unis)
+1742,Ontario (Canada)
+1743,Caroline Du Nord (États-Unis)
+1747,Californie (États-Unis)
+1753,Canada
+1754,Floride (États-Unis)
+1757,Virginie (États-Unis)
+1758,Sainte Lucie
+1760,Californie (États-Unis)
+1762,Géorgie (États-Unis)
+1763,Minnesota (États-Unis)
+1764,États-Unis
+1765,Indiana (États-Unis)
+1767,Dominique
+1769,Mississippi (États-Unis)
+1770,Géorgie (États-Unis)
+1771,District Of Columbia (États-Unis)
+1772,Floride (États-Unis)
+1773,Illinois (États-Unis)
+1774,Massachusetts (États-Unis)
+1775,Nevada (États-Unis)
+1778,Colombie-Britannique (Canada)
+1779,Illinois (États-Unis)
+1780,Alberta (Canada)
+1781,Massachusetts (États-Unis)
+1782,Nouvelle-Écosse - Île Du Prince Édouard (Canada)
+1784,Saint Vincent & Grenadines
+1785,Kansas (États-Unis)
+1786,Floride (États-Unis)
+1787,Puerto Rico (États-Unis)
+1801,Utah (États-Unis)
+1802,Vermont (États-Unis)
+1803,Caroline Du Sud (États-Unis)
+1804,Virginie (États-Unis)
+1805,Californie (États-Unis)
+1806,Texas (États-Unis)
+1807,Ontario (Canada)
+1808,Hawaï (États-Unis)
+1809,République Dominicaine
+1810,Michigan (États-Unis)
+1812,Indiana (États-Unis)
+1813,Floride (États-Unis)
+1814,Pennsylvanie (États-Unis)
+1815,Illinois (États-Unis)
+1816,Missouri (États-Unis)
+1817,Texas (États-Unis)
+1818,Californie (États-Unis)
+1819,Quebec (Canada)
+1820,Californie (États-Unis)
+1825,Alberta (Canada)
+1826,Virginie (nous)
+1828,Caroline du Nord (États-Unis)
+1829,République Dominicaine
+1830,Texas (États-Unis)
+1831,Californie (États-Unis)
+1832,Texas (États-Unis)
+1835,États-Unis
+1838,New York (États-Unis)
+1839,Caroline du Sud (États-Unis)
+1840,Californie (États-Unis)
+1843,Caroline du Sud (États-Unis)
+1845,New York (États-Unis)
+1847,Illinois (États-Unis)
+1848,New Jersey (États-Unis)
+1849,République Dominicaine
+1850,Floride (États-Unis)
+1851,Canada
+1854,Caroline du Sud (États-Unis)
+1856,New Jersey (États-Unis)
+1857,Massachusetts (États-Unis)
+1858,Californie (États-Unis)
+1859,Kentucky (États-Unis)
+1860,Connecticut (États-Unis)
+1862,New Jersey (États-Unis)
+1863,Floride (États-Unis)
+1864,Caroline du Sud (États-Unis)
+1865,Tennessee (États-Unis)
+1867,Nunavut (Canada)
+1868,Trinité-et-Tobago
+1869,Saint-Kitts-et-Nevis
+1870,Arkansas (États-Unis)
+1871,Canada
+1872,Illinois (États-Unis)
+1873,"Quebec, Canada)"
+1876,Jamaïque
+1878,Pennsylvanie (États-Unis)
+1879,Terre-Neuve-et-Labrador (Canada)
+1901,Tennessee (États-Unis)
+1902,Nouvelle-Écosse - Île-du-Prince-Édouard (Canada)
+1903,Texas (États-Unis)
+1904,Floride (États-Unis)
+1905,Ontario (Canada)
+1906,Michigan (États-Unis)
+1907,Alaska (États-Unis)
+1908,New Jersey (États-Unis)
+1909,Californie (États-Unis)
+1910,Caroline du Nord (États-Unis)
+1912,Géorgie (États-Unis)
+1913,Kansas (États-Unis)
+1914,New York (États-Unis)
+1915,Texas (États-Unis)
+1916,Californie (États-Unis)
+1917,New York (États-Unis)
+1918,Oklahoma (États-Unis)
+1919,Caroline du Nord (États-Unis)
+1920,Wisconsin (États-Unis)
+1925,Californie (États-Unis)
+1928,Arizona (États-Unis)
+1929,New York (États-Unis)
+1930,Indiana (États-Unis)
+1931,Tennessee (États-Unis)
+1934,New York (États-Unis)
+1935,États-Unis
+1936,Texas (États-Unis)
+1937,Ohio (États-Unis)
+1938,Alabama (États-Unis)
+1939,Porto Rico (États-Unis)
+1940,Texas (États-Unis)
+1941,Floride (États-Unis)
+1942,Canada
+1943,Géorgie (États-Unis)
+1945,Texas (États-Unis)
+1947,Michigan (États-Unis)
+1948,Virginie (nous)
+1949,Californie (États-Unis)
+1951,Californie (États-Unis)
+1952,Minnesota (États-Unis)
+1954,Floride (États-Unis)
+1956,Texas (États-Unis)
+1959,Connecticut (États-Unis)
+1970,Colorado (États-Unis)
+1971,Oregon (États-Unis)
+1972,Texas (États-Unis)
+1973,New Jersey (États-Unis)
+1975,Missouri (nous)
+1978,Massachusetts (États-Unis)
+1979,Texas (États-Unis)
+1980,Caroline du Nord (États-Unis)
+1984,Caroline du Nord (États-Unis)
+1985,Louisiane (États-Unis)
+1986,Idaho (États-Unis)
+1989,Michigan (États-Unis)
