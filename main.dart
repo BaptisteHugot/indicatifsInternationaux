@@ -30,7 +30,7 @@ List<CountryCode> parseCountryCode(String responseBody) {
 // Fonction servant à récupérer le pays lié à l'indicatif du numéro de téléphone
 List<CountryCode> getCountry(String phoneNumber, List<CountryCode> countryCode){
   int i = 7;
-  List<CountryCode> temp;
+  List<CountryCode> temp = [];
 
   do{
     temp = countryCode.where((e) => e.indicatif.toString() == phoneNumber.substring(0,i)).toList();
@@ -39,6 +39,25 @@ List<CountryCode> getCountry(String phoneNumber, List<CountryCode> countryCode){
 
   if(temp.isEmpty){
     temp.add(CountryCode(pays: "Inexistant"));
+  }
+
+  return temp;
+}
+
+// Fonction servant à récupérer le pays lié à l'indicatif de la carte SIM
+List<CountryCode> getCountryFromSIM(String SIMNumber, List<CountryCode> countryCode){
+  List<CountryCode> temp = [];
+
+  if(SIMNumber.startsWith("7")){
+    temp.add(CountryCode(pays: "Russie/Kasakhstan"));
+  }else if(SIMNumber.startsWith("39")){
+    temp.add(CountryCode(pays: "Italie"));
+  }else if(SIMNumber.startsWith("1")){
+    temp.add(CountryCode(pays: "Amérique du Nord"));
+  }else if(SIMNumber.startsWith("47")){
+    temp.add(CountryCode(pays: "Norvège"));
+  }else{
+    temp = getCountry(SIMNumber, countryCode);
   }
 
   return temp;
@@ -73,7 +92,7 @@ void main() => runApp(MyApp());
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    final appTitle = "Pays d'un numéro de téléphone";
+    final appTitle = "Pays d'un numéro de téléphone ou d'une carte SIM";
 
     return MaterialApp(
       title: appTitle,
@@ -143,14 +162,44 @@ class _CountryCodeListState extends State<CountryCodeList> {
   /// On définit les expressions régulières
   static Pattern patternPhoneNumber = r"\(?[0-9]{1,3}\)? ?-?[0-9]{1,3} ?-?[0-9]{3,5} ?-?[0-9]{4}( ?-?[0-9]{3})?";
   static RegExp regexPhoneNumber = new RegExp(patternPhoneNumber);
+  static Pattern patternICCID = r"^89[1-9][0-9]{16,19}$";
+  static RegExp regexICCID = new RegExp(patternICCID);
 
   bool showResult = false; /// Booléen pour afficher le résultat ou non
   String phoneNumber = ""; /// Numéro de téléphone entré
   String country = ""; /// Résultat à afficher
   List<CountryCode> result;
 
+  /// Variables d'affichage de l'application
+  int _radioValue = 0;
+  String _displayStartText = "";
+  String _displayInputText = "";
+  String _displayErrorText = "";
+
+  /// On initialise l'état de l'application
   void initState(){
+    _handleRadioValueChange(0);
     super.initState();
+  }
+
+  /// Lorsqu'un bouton radio est modifié
+  void _handleRadioValueChange(int value){
+    setState((){
+      _radioValue = value;
+
+      switch(_radioValue){
+        case 0:
+          _displayStartText = "Entrez un numéro de téléphone";
+          _displayInputText = "Numéro de téléphone";
+          _displayErrorText = "Entrez un numéro de téléphone au format valide";
+          break;
+        case 1:
+          _displayStartText = "Entrez un numéro de carte SIM";
+          _displayInputText = "Numéro de carte SIM";
+          _displayErrorText = "Entrez un numéro de carte SIM au format valide";
+          break;
+      }
+    });
   }
 
   @override
@@ -159,23 +208,46 @@ class _CountryCodeListState extends State<CountryCodeList> {
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: <Widget>[
-          Text("Entrez un numéro de téléphone"),
+          Row(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: <Widget>[
+            Radio(
+              value: 0,
+              groupValue: _radioValue,
+              activeColor: Colors.blue,
+              onChanged: _handleRadioValueChange,
+          ),
+          Text("Numéro de téléphone"),
+          Radio(
+            value: 1,
+            groupValue: _radioValue,
+            activeColor: Colors.blue,
+            onChanged: _handleRadioValueChange,
+          ),
+          Text("Numéro de carte SIM"),
+          ]),
+          Text(_displayStartText),
           Form(
             key: _formKey,
             child: Column(
               children: <Widget>[
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                ),
                 TextFormField(
                   keyboardType: TextInputType.number,
                   controller: phoneController,
                   inputFormatters: [FilteringTextInputFormatter.digitsOnly],
-                  decoration: const InputDecoration(
-                      labelText: "Numéro de téléphone"
+                  decoration: InputDecoration(
+                      labelText: _displayInputText
                   ),
                   validator: (value){
                     if(value.isEmpty){
-                      return "Entrez un numéro de téléphone";
-                    }else if(!regexPhoneNumber.hasMatch(value)){
-                      return "Entrez un numéro de téléphone au format valide";
+                      return _displayStartText;
+                    }else if(_radioValue == 0 && !regexPhoneNumber.hasMatch(value)){
+                      return _displayErrorText;
+                    }else if(_radioValue == 1 && !regexICCID.hasMatch(value)){
+                      return _displayErrorText;
                     }
                     return null;
                   },
@@ -189,7 +261,11 @@ class _CountryCodeListState extends State<CountryCodeList> {
                         if(_formKey.currentState.validate()){
                           setState(() {
                             phoneNumber = phoneController.text;
-                            result = getCountry(phoneNumber, countryCode);
+                            if(_radioValue == 1){
+                              result = getCountryFromSIM(phoneNumber.substring(2), countryCode); /// On supprime, lorsqu'il s'agit d'une carte SIM, les 2 premiers caractères
+                            }else {
+                              result = getCountry(phoneNumber, countryCode);
+                            }
                             showResult = true;
                           });
                         }
@@ -215,7 +291,7 @@ class _CountryCodeListState extends State<CountryCodeList> {
             columns: <DataColumn>[
               DataColumn(
                 label: Text(
-                    "Numéro de téléphone"
+                    _displayInputText
                 ),
               ),
               DataColumn(
