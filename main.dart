@@ -38,7 +38,7 @@ List<CountryCode> getCountry(String phoneNumber, List<CountryCode> countryCode){
   }while(temp.isEmpty && i>=2);
 
   if(temp.isEmpty){
-    temp.add(CountryCode(pays: "Inexistant"));
+    temp.add(CountryCode(indicatif: 0, pays: "Inexistant"));
   }
 
   return temp;
@@ -49,13 +49,13 @@ List<CountryCode> getCountryFromSIM(String SIMNumber, List<CountryCode> countryC
   List<CountryCode> temp = [];
 
   if(SIMNumber.startsWith("7")){
-    temp.add(CountryCode(pays: "Russie/Kasakhstan"));
+    temp.add(CountryCode(indicatif: 7, pays: "Russie/Kasakhstan"));
   }else if(SIMNumber.startsWith("39")){
-    temp.add(CountryCode(pays: "Italie"));
+    temp.add(CountryCode(indicatif: 39, pays: "Italie"));
   }else if(SIMNumber.startsWith("1")){
-    temp.add(CountryCode(pays: "Amérique du Nord"));
+    temp.add(CountryCode(indicatif: 1, pays: "Amérique du Nord"));
   }else if(SIMNumber.startsWith("47")){
-    temp.add(CountryCode(pays: "Norvège"));
+    temp.add(CountryCode(indicatif: 47, pays: "Norvège"));
   }else{
     temp = getCountry(SIMNumber, countryCode);
   }
@@ -75,7 +75,7 @@ class CountryCode {
   final int indicatif;
   final String pays;
 
-  CountryCode({this.indicatif, this.pays});
+  CountryCode({required this.indicatif, required this.pays});
 
   factory CountryCode.fromJson(Map<String, dynamic> json) {
     return CountryCode(
@@ -108,7 +108,7 @@ class MyApp extends StatelessWidget {
 class MyHomePage extends StatefulWidget{
   final String title;
 
-  MyHomePage({Key key, this.title}) : super(key: key);
+  MyHomePage({Key? key, required this.title}) : super(key: key);
 
   @override
   _MyHomePageState createState() => _MyHomePageState();
@@ -124,7 +124,7 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
       body: FutureBuilder<List<CountryCode>>(
         future: fetchCountryCode(http.Client()),
-        builder: (context, snapshot) {
+        builder: (context, AsyncSnapshot snapshot) {
           if(snapshot.hasError){
             print(snapshot.error);
             return Container();
@@ -143,7 +143,7 @@ class _MyHomePageState extends State<MyHomePage> {
 class CountryCodeList extends StatefulWidget{
   final List<CountryCode> countryCode;
 
-  CountryCodeList({Key key, this.countryCode}) : super(key: key);
+  CountryCodeList({Key? key, required this.countryCode}) : super(key: key);
 
   @override
   _CountryCodeListState createState() => _CountryCodeListState(countryCode: countryCode);
@@ -153,7 +153,7 @@ class CountryCodeList extends StatefulWidget{
 class _CountryCodeListState extends State<CountryCodeList> {
   final List<CountryCode> countryCode;
 
-  _CountryCodeListState({Key key, this.countryCode}) : super();
+  _CountryCodeListState({Key? key, required this.countryCode}) : super();
 
   /// On définit les contrôleurs de texte et de formulaire
   final phoneController = TextEditingController();
@@ -161,31 +161,59 @@ class _CountryCodeListState extends State<CountryCodeList> {
 
   /// On définit les expressions régulières
   static Pattern patternPhoneNumber = r"\(?[0-9]{1,3}\)? ?-?[0-9]{1,3} ?-?[0-9]{3,5} ?-?[0-9]{4}( ?-?[0-9]{3})?";
-  static RegExp regexPhoneNumber = new RegExp(patternPhoneNumber);
+  static RegExp regexPhoneNumber = new RegExp(patternPhoneNumber.toString());
   static Pattern patternICCID = r"^89[1-9][0-9]{16,19}$";
-  static RegExp regexICCID = new RegExp(patternICCID);
+  static RegExp regexICCID = new RegExp(patternICCID.toString());
 
   bool showResult = false; /// Booléen pour afficher le résultat ou non
   String phoneNumber = ""; /// Numéro de téléphone entré
   String country = ""; /// Résultat à afficher
-  List<CountryCode> result;
+  List<CountryCode> result = [];
 
   /// Variables d'affichage de l'application
-  int _radioValue = 0;
+  int? _radioValue = 0;
   String _displayStartText = "";
   String _displayInputText = "";
   String _displayErrorText = "";
 
   /// On initialise l'état de l'application
   void initState(){
-    _handleRadioValueChange(0);
+    _handleRadioValueChange(_radioValue);
     super.initState();
   }
 
+  /// Lorsqu'on clique sur le bouton effacer
+    void _erase(){
+      setState((){
+        showResult = false;
+        phoneController.text = "";
+      });
+    }
+
+    /// Lorsqu'on clique sur le bouton valider
+    void _validate(){
+      if(_formKey.currentState!.validate()){
+        setState(() {
+          phoneNumber = phoneController.text;
+          if(_radioValue == 1){
+            result = getCountryFromSIM(phoneNumber.substring(2), countryCode); /// On supprime, lorsqu'il s'agit d'une carte SIM, les 2 premiers caractères
+          }else {
+            result = getCountry(phoneNumber, countryCode);
+          }
+          showResult = true;
+        });
+      }else{
+        setState((){
+          showResult = false;
+        });
+      }
+    }
+
   /// Lorsqu'un bouton radio est modifié
-  void _handleRadioValueChange(int value){
+  void _handleRadioValueChange(int? value){
     setState((){
       _radioValue = value;
+      showResult = false;
 
       switch(_radioValue){
         case 0:
@@ -215,14 +243,18 @@ class _CountryCodeListState extends State<CountryCodeList> {
               value: 0,
               groupValue: _radioValue,
               activeColor: Colors.blue,
-              onChanged: _handleRadioValueChange,
+              onChanged: (int? value) {
+                _handleRadioValueChange(value);
+              }
           ),
           Text("Numéro de téléphone"),
           Radio(
             value: 1,
             groupValue: _radioValue,
             activeColor: Colors.blue,
-            onChanged: _handleRadioValueChange,
+            onChanged: (int? value) {
+              _handleRadioValueChange(value);
+            }
           ),
           Text("Numéro de carte SIM"),
           ]),
@@ -242,14 +274,18 @@ class _CountryCodeListState extends State<CountryCodeList> {
                       labelText: _displayInputText
                   ),
                   validator: (value){
-                    if(value.isEmpty){
-                      return _displayStartText;
-                    }else if(_radioValue == 0 && !regexPhoneNumber.hasMatch(value)){
-                      return _displayErrorText;
-                    }else if(_radioValue == 1 && !regexICCID.hasMatch(value)){
-                      return _displayErrorText;
+                    if(value != null) {
+                      if (value.isEmpty) {
+                        return _displayStartText;
+                      } else if (_radioValue == 0 &&
+                          !regexPhoneNumber.hasMatch(value)) {
+                        return _displayErrorText;
+                      } else
+                      if (_radioValue == 1 && !regexICCID.hasMatch(value)) {
+                        return _displayErrorText;
+                      }
+                      return null;
                     }
-                    return null;
                   },
                 ),
                 SizedBox(height: 5), /// On ajoute un espacement en hauteur
@@ -258,27 +294,14 @@ class _CountryCodeListState extends State<CountryCodeList> {
                   children: <Widget>[
                     ElevatedButton(
                       onPressed: (){
-                        if(_formKey.currentState.validate()){
-                          setState(() {
-                            phoneNumber = phoneController.text;
-                            if(_radioValue == 1){
-                              result = getCountryFromSIM(phoneNumber.substring(2), countryCode); /// On supprime, lorsqu'il s'agit d'une carte SIM, les 2 premiers caractères
-                            }else {
-                              result = getCountry(phoneNumber, countryCode);
-                            }
-                            showResult = true;
-                          });
-                        }
+                        _validate();
                       },
                       child: Text("Valider"),
                     ),
                     SizedBox(width: 5), /// On ajoute un espacement entre les 2 boutons
                     ElevatedButton(
                       onPressed: (){
-                        setState(() {
-                          showResult = false;
-                          phoneController.text = "";
-                        });
+                        _erase();
                       },
                       child: Text("Effacer"),
                     ),
